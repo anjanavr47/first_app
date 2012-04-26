@@ -1,0 +1,186 @@
+2012-04-15 13:47:31,687 - softwarecenter.db - ERROR - failed to add apt-xapian-index
+Traceback (most recent call last):
+  File "/usr/share/software-center/softwarecenter/db/database.py", line 142, in open
+    axi = xapian.Database("/var/lib/apt-xapian-index/index")
+  File "/usr/lib/python2.7/dist-packages/xapian/__init__.py", line 3458, in __init__
+    _xapian.Database_swiginit(self,_xapian.new_Database(*args))
+DatabaseOpeningError: Couldn't stat '/var/lib/apt-xapian-index/index' (No such file or directory)
+2012-04-15 13:47:31,709 - softwarecenter.fixme - WARNING - logs to the root logger: '('/usr/share/software-center/softwarecenter/db/database.py', 154, 'open')'
+2012-04-15 13:47:31,709 - root - WARNING - failed to add sca db Couldn't stat '/home/anjana/.cache/software-center/software-center-agent.db' (No such file or directory)
+2012-04-15 13:47:32,599 - softwarecenter.fixme - WARNING - logs to the root logger: '('/usr/share/software-center/softwarecenter/db/reviews.py', 466, '_review_stats_loaded_watcher')'
+2012-04-15 13:47:32,599 - root - WARNING - got error from helper: 'ERROR:__main__:get_review_stats
+Traceback (most recent call last):
+  File "/usr/share/software-center/get_review_stats_helper.py", line 45, in <module>
+    piston_review_stats = rnrclient.review_stats(**kwargs)
+  File "/usr/lib/python2.7/dist-packages/piston_mini_client/validators.py", line 41, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/lib/python2.7/dist-packages/piston_mini_client/validators.py", line 41, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/lib/python2.7/dist-packages/piston_mini_client/validators.py", line 61, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/lib/python2.7/dist-packages/piston_mini_client/__init__.py", line 106, in wrapper
+    body = func(self, *args, **kwargs)
+  File "/usr/share/software-center/softwarecenter/backend/rnrclient_pristine.py", line 96, in review_stats
+    return self._get(url, scheme=PUBLIC_API_SCHEME)
+  File "/usr/lib/python2.7/dist-packages/piston_mini_client/__init__.py", line 231, in _get
+    return self._request(path, method='GET', scheme=scheme)
+  File "/usr/lib/python2.7/dist-packages/piston_mini_client/__init__.py", line 321, in _request
+    headers=headers)
+  File "/usr/lib/python2.7/dist-packages/httplib2/__init__.py", line 1129, in request
+    (response, content) = self._request(conn, authority, uri, request_uri, method, body, headers, redirections, cachekey)
+  File "/usr/lib/python2.7/dist-packages/httplib2/__init__.py", line 901, in _request
+    (response, content) = self._conn_request(conn, request_uri, method, body, headers)
+  File "/usr/lib/python2.7/dist-packages/httplib2/__init__.py", line 865, in _conn_request
+    raise ServerNotFoundError("Unable to find the server at %s" % conn.host)
+ServerNotFoundError: Unable to find the server at reviews.ubuntu.com
+'
+2012-04-15 13:47:33,468 - softwarecenter.fixme - WARNING - logs to the root logger: '('/usr/lib/pymodules/python2.7/zeitgeist/client.py', 367, 'reconnect_monitors')'
+2012-04-15 13:47:33,467 - zeitgeist.client - INFO - Reconnected to Zeitgeist engine...
+2012-04-15 13:47:33,691 - softwarecenter.view.catview - WARNING - sort by cataloged time requested but your a-x-i does not seem to support that yet
+2012-04-15 13:47:34,298 - softwarecenter.backend.scagent - WARNING - error in query_info 'HTTP Error: Cannot resolve hostname (software-center.ubuntu.com)'
+2012-04-15 13:47:34,299 - softwarecenter.db.update - WARNING - error: HTTP Error: Cannot resolve hostname (software-center.ubuntu.com)
+2012-04-15 13:47:34,436 - softwarecenter.app - INFO - software-center-agent finished with status 1
+2012-04-15 13:47:43,894 - softwarecenter.fixme - WARNING - logs to the root logger: '('/usr/share/software-center/softwarecenter/db/database.py', 154, 'open')'
+2012-04-15 13:47:43,893 - root - WARNING - failed to add sca db Couldn't stat '/home/anjana/.cache/software-center/software-center-agent.db' (No such file or directory)
+2012-04-20 12:49:14,054 - softwarecenter.fixme - WARNING - logs to the root logger: '('/usr/share/software-center/softwarecenter/db/database.py', 154, 'open')'
+2012-04-20 12:49:14,054 - root - WARNING - failed to add sca db Couldn't stat '/home/anjana/.cache/software-center/software-center-agent.db' (No such file or directory)
+2012-04-20 12:49:15,177 - softwarecenter.fixme - WARNING - logs to the root logger: '('/usr/share/software-center/softwarecenter/db/reviews.py', 466, '_review_stats_loaded_watcher')'
+2012-04-20 12:49:15,177 - root - WARNING - got error from helper: 'ERROR:__main__:get_review_stats
+Traceback (most recent call last):
+  File "/usr/share/software-center/get_review_stats_helper.py", line 45, in <module>
+    piston_review_stats = rnrclient.review_stats(**kwargs)
+  File "/usr/lib/python2.7/dist-packages/piston_mini_client/validators.py", line 41, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/lib/python2.7/dist-packages/piston_mini_client/validators.py", line 41, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/lib/python2.7/dist-packages/piston_mini_client/validators.py", line 61, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/lib/python2.7/dist-packages/piston_mini_client/__init__.py", line 106, in wrapper
+    body = func(self, *args, **kwargs)
+  File "/usr/share/software-center/softwarecenter/backend/rnrclient_pristine.py", line 96, in review_stats
+    return self._get(url, scheme=PUBLIC_API_SCHEME)
+  File "/usr/lib/python2.7/dist-packages/piston_mini_client/__init__.py", line 231, in _get
+    return self._request(path, method='GET', scheme=scheme)
+  File "/usr/lib/python2.7/dist-packages/piston_mini_client/__init__.py", line 321, in _request
+    headers=headers)
+  File "/usr/lib/python2.7/dist-packages/httplib2/__init__.py", line 1129, in request
+    (response, content) = self._request(conn, authority, uri, request_uri, method, body, headers, redirections, cachekey)
+  File "/usr/lib/python2.7/dist-packages/httplib2/__init__.py", line 901, in _request
+    (response, content) = self._conn_request(conn, request_uri, method, body, headers)
+  File "/usr/lib/python2.7/dist-packages/httplib2/__init__.py", line 865, in _conn_request
+    raise ServerNotFoundError("Unable to find the server at %s" % conn.host)
+ServerNotFoundError: Unable to find the server at reviews.ubuntu.com
+'
+2012-04-20 12:49:16,206 - softwarecenter.fixme - WARNING - logs to the root logger: '('/usr/lib/pymodules/python2.7/zeitgeist/client.py', 367, 'reconnect_monitors')'
+2012-04-20 12:49:16,206 - zeitgeist.client - INFO - Reconnected to Zeitgeist engine...
+2012-04-20 12:49:17,010 - softwarecenter.backend.scagent - WARNING - error in query_info 'HTTP Error: Cannot resolve hostname (software-center.ubuntu.com)'
+2012-04-20 12:49:17,011 - softwarecenter.db.update - WARNING - error: HTTP Error: Cannot resolve hostname (software-center.ubuntu.com)
+2012-04-20 12:49:17,230 - softwarecenter.app - INFO - software-center-agent finished with status 1
+2012-04-20 13:36:37,563 - softwarecenter.fixme - WARNING - logs to the root logger: '('/usr/share/software-center/softwarecenter/db/database.py', 154, 'open')'
+2012-04-20 13:36:37,562 - root - WARNING - failed to add sca db Couldn't stat '/home/anjana/.cache/software-center/software-center-agent.db' (No such file or directory)
+2012-04-20 13:36:38,488 - softwarecenter.fixme - WARNING - logs to the root logger: '('/usr/share/software-center/softwarecenter/db/reviews.py', 466, '_review_stats_loaded_watcher')'
+2012-04-20 13:36:38,487 - root - WARNING - got error from helper: 'ERROR:__main__:get_review_stats
+Traceback (most recent call last):
+  File "/usr/share/software-center/get_review_stats_helper.py", line 45, in <module>
+    piston_review_stats = rnrclient.review_stats(**kwargs)
+  File "/usr/lib/python2.7/dist-packages/piston_mini_client/validators.py", line 41, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/lib/python2.7/dist-packages/piston_mini_client/validators.py", line 41, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/lib/python2.7/dist-packages/piston_mini_client/validators.py", line 61, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/lib/python2.7/dist-packages/piston_mini_client/__init__.py", line 106, in wrapper
+    body = func(self, *args, **kwargs)
+  File "/usr/share/software-center/softwarecenter/backend/rnrclient_pristine.py", line 96, in review_stats
+    return self._get(url, scheme=PUBLIC_API_SCHEME)
+  File "/usr/lib/python2.7/dist-packages/piston_mini_client/__init__.py", line 231, in _get
+    return self._request(path, method='GET', scheme=scheme)
+  File "/usr/lib/python2.7/dist-packages/piston_mini_client/__init__.py", line 321, in _request
+    headers=headers)
+  File "/usr/lib/python2.7/dist-packages/httplib2/__init__.py", line 1129, in request
+    (response, content) = self._request(conn, authority, uri, request_uri, method, body, headers, redirections, cachekey)
+  File "/usr/lib/python2.7/dist-packages/httplib2/__init__.py", line 901, in _request
+    (response, content) = self._conn_request(conn, request_uri, method, body, headers)
+  File "/usr/lib/python2.7/dist-packages/httplib2/__init__.py", line 865, in _conn_request
+    raise ServerNotFoundError("Unable to find the server at %s" % conn.host)
+ServerNotFoundError: Unable to find the server at reviews.ubuntu.com
+'
+2012-04-20 13:36:39,424 - softwarecenter.fixme - WARNING - logs to the root logger: '('/usr/lib/pymodules/python2.7/zeitgeist/client.py', 367, 'reconnect_monitors')'
+2012-04-20 13:36:39,423 - zeitgeist.client - INFO - Reconnected to Zeitgeist engine...
+2012-04-20 13:36:40,256 - softwarecenter.backend.scagent - WARNING - error in query_info 'HTTP Error: Cannot resolve hostname (software-center.ubuntu.com)'
+2012-04-20 13:36:40,257 - softwarecenter.db.update - WARNING - error: HTTP Error: Cannot resolve hostname (software-center.ubuntu.com)
+2012-04-20 13:36:40,382 - softwarecenter.app - INFO - software-center-agent finished with status 1
+2012-04-20 13:36:51,362 - softwarecenter.fixme - WARNING - logs to the root logger: '('/usr/share/software-center/softwarecenter/db/database.py', 154, 'open')'
+2012-04-20 13:36:51,361 - root - WARNING - failed to add sca db Couldn't stat '/home/anjana/.cache/software-center/software-center-agent.db' (No such file or directory)
+2012-04-21 22:45:35,472 - softwarecenter.fixme - WARNING - logs to the root logger: '('/usr/share/software-center/softwarecenter/db/database.py', 154, 'open')'
+2012-04-21 22:45:35,472 - root - WARNING - failed to add sca db Couldn't stat '/home/anjana/.cache/software-center/software-center-agent.db' (No such file or directory)
+2012-04-21 22:45:36,504 - softwarecenter.fixme - WARNING - logs to the root logger: '('/usr/share/software-center/softwarecenter/db/reviews.py', 466, '_review_stats_loaded_watcher')'
+2012-04-21 22:45:36,504 - root - WARNING - got error from helper: 'ERROR:__main__:get_review_stats
+Traceback (most recent call last):
+  File "/usr/share/software-center/get_review_stats_helper.py", line 45, in <module>
+    piston_review_stats = rnrclient.review_stats(**kwargs)
+  File "/usr/lib/python2.7/dist-packages/piston_mini_client/validators.py", line 41, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/lib/python2.7/dist-packages/piston_mini_client/validators.py", line 41, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/lib/python2.7/dist-packages/piston_mini_client/validators.py", line 61, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/lib/python2.7/dist-packages/piston_mini_client/__init__.py", line 106, in wrapper
+    body = func(self, *args, **kwargs)
+  File "/usr/share/software-center/softwarecenter/backend/rnrclient_pristine.py", line 96, in review_stats
+    return self._get(url, scheme=PUBLIC_API_SCHEME)
+  File "/usr/lib/python2.7/dist-packages/piston_mini_client/__init__.py", line 231, in _get
+    return self._request(path, method='GET', scheme=scheme)
+  File "/usr/lib/python2.7/dist-packages/piston_mini_client/__init__.py", line 321, in _request
+    headers=headers)
+  File "/usr/lib/python2.7/dist-packages/httplib2/__init__.py", line 1129, in request
+    (response, content) = self._request(conn, authority, uri, request_uri, method, body, headers, redirections, cachekey)
+  File "/usr/lib/python2.7/dist-packages/httplib2/__init__.py", line 901, in _request
+    (response, content) = self._conn_request(conn, request_uri, method, body, headers)
+  File "/usr/lib/python2.7/dist-packages/httplib2/__init__.py", line 865, in _conn_request
+    raise ServerNotFoundError("Unable to find the server at %s" % conn.host)
+ServerNotFoundError: Unable to find the server at reviews.ubuntu.com
+'
+2012-04-21 22:45:37,436 - softwarecenter.fixme - WARNING - logs to the root logger: '('/usr/lib/pymodules/python2.7/zeitgeist/client.py', 367, 'reconnect_monitors')'
+2012-04-21 22:45:37,436 - zeitgeist.client - INFO - Reconnected to Zeitgeist engine...
+2012-04-21 22:45:38,284 - softwarecenter.backend.scagent - WARNING - error in query_info 'HTTP Error: Cannot resolve hostname (software-center.ubuntu.com)'
+2012-04-21 22:45:38,285 - softwarecenter.db.update - WARNING - error: HTTP Error: Cannot resolve hostname (software-center.ubuntu.com)
+2012-04-21 22:45:38,457 - softwarecenter.app - INFO - software-center-agent finished with status 1
+2012-04-21 22:45:48,638 - softwarecenter.fixme - WARNING - logs to the root logger: '('/usr/share/software-center/softwarecenter/db/database.py', 154, 'open')'
+2012-04-21 22:45:48,638 - root - WARNING - failed to add sca db Couldn't stat '/home/anjana/.cache/software-center/software-center-agent.db' (No such file or directory)
+2012-04-21 23:12:25,054 - softwarecenter.fixme - WARNING - logs to the root logger: '('/usr/share/software-center/softwarecenter/db/database.py', 154, 'open')'
+2012-04-21 23:12:25,054 - root - WARNING - failed to add sca db Couldn't stat '/home/anjana/.cache/software-center/software-center-agent.db' (No such file or directory)
+2012-04-21 23:12:25,533 - softwarecenter.fixme - WARNING - logs to the root logger: '('/usr/lib/pymodules/python2.7/zeitgeist/client.py', 367, 'reconnect_monitors')'
+2012-04-21 23:12:25,532 - zeitgeist.client - INFO - Reconnected to Zeitgeist engine...
+2012-04-21 23:12:29,393 - softwarecenter.fixme - WARNING - logs to the root logger: '('/usr/share/software-center/softwarecenter/db/database.py', 154, 'open')'
+2012-04-21 23:12:29,392 - root - WARNING - failed to add sca db Couldn't stat '/home/anjana/.cache/software-center/software-center-agent.db' (No such file or directory)
+2012-04-21 23:12:29,990 - softwarecenter.app - INFO - software-center-agent finished with status 0
+2012-04-21 23:22:01,956 - softwarecenter.fixme - WARNING - logs to the root logger: '('/usr/lib/pymodules/python2.7/zeitgeist/client.py', 367, 'reconnect_monitors')'
+2012-04-21 23:22:01,956 - zeitgeist.client - INFO - Reconnected to Zeitgeist engine...
+2012-04-21 23:22:04,386 - softwarecenter.app - INFO - software-center-agent finished with status 1
+2012-04-23 08:00:30,784 - softwarecenter.fixme - WARNING - logs to the root logger: '('/usr/lib/pymodules/python2.7/zeitgeist/client.py', 367, 'reconnect_monitors')'
+2012-04-23 08:00:30,784 - zeitgeist.client - INFO - Reconnected to Zeitgeist engine...
+2012-04-23 08:00:33,749 - softwarecenter.app - INFO - software-center-agent finished with status 1
+2012-04-24 06:32:06,695 - softwarecenter.fixme - WARNING - logs to the root logger: '('/usr/lib/pymodules/python2.7/zeitgeist/client.py', 367, 'reconnect_monitors')'
+2012-04-24 06:32:06,695 - zeitgeist.client - INFO - Reconnected to Zeitgeist engine...
+2012-04-24 06:32:06,709 - softwarecenter.fixme - WARNING - logs to the root logger: '('/usr/share/software-center/softwarecenter/db/reviews.py', 466, '_review_stats_loaded_watcher')'
+2012-04-24 06:32:06,709 - root - WARNING - got error from helper: 'ERROR:__main__:get_review_stats
+Traceback (most recent call last):
+  File "/usr/share/software-center/get_review_stats_helper.py", line 45, in <module>
+    piston_review_stats = rnrclient.review_stats(**kwargs)
+  File "/usr/lib/python2.7/dist-packages/piston_mini_client/validators.py", line 41, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/lib/python2.7/dist-packages/piston_mini_client/validators.py", line 41, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/lib/python2.7/dist-packages/piston_mini_client/validators.py", line 61, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/lib/python2.7/dist-packages/piston_mini_client/__init__.py", line 109, in wrapper
+    data = simplejson.loads(body)
+  File "/usr/lib/python2.7/dist-packages/simplejson/__init__.py", line 384, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/dist-packages/simplejson/decoder.py", line 402, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/dist-packages/simplejson/decoder.py", line 420, in raw_decode
+    raise JSONDecodeError("No JSON object could be decoded", s, idx)
+JSONDecodeError: No JSON object could be decoded: line 1 column 0 (char 0)
+'

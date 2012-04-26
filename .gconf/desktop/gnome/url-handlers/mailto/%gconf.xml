@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="needs_terminal" mtime="1334909571" type="bool" value="false"/>
+	<entry name="command" mtime="1334909571" type="string">
+		<stringvalue>evolution %U</stringvalue>
+	</entry>
+</gconf>

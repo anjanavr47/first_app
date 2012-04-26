@@ -1,0 +1,39 @@
+alternate full switch:i:0
+alternate shell:s:
+attach to console:i:0
+audiomode:i:0
+auto connect:i:0
+diskmapping:i:0
+bitmapcachepersistenable:i:0
+client hostname:s:
+compression:i:0
+description:s:
+desktop size id:i:1
+desktopheight:i:0
+desktopwidth:i:0
+disable full window drag:i:0
+disable menu anims:i:0
+disable themes:i:0
+disable wallpaper:i:0
+displayconnectionbar:i:0
+domain:s:
+enable alternate shell:i:0
+enable wm keys:i:0
+full address:s:
+hide wm decorations:i:0
+keyboard language:s:
+keyboardhook:i:0
+no motion events:i:0
+password:b:
+password 51:b:progman group:s:
+protocol:i:0
+protocol file:s:
+redirectcomports:i:0
+redirectdrives:i:0
+redirectprinters:i:0
+redirectsmartcards:i:0
+screen mode id:i:1
+session bpp:i:0
+shell working directory:s:
+username:s:
+winposstr:s:

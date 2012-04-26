@@ -1,0 +1,1 @@
+[2012-04-23 23:19:30] tar xjf /home/anjana/.rvm/archives/ruby-1.9.2-p320.tar.bz2 -C /home/anjana/.rvm/tmp/rvm_src_2469 --no-same-owner

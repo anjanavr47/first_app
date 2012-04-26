@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///media/Elements/Ruby/ruby-1.8.7-p358-doc-chm.7z" added="2012-04-15T06:54:11Z" modified="2012-04-15T06:57:15Z" visited="2012-04-15T06:54:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-7z-compressed"/>
+        <bookmark:applications>
+          <bookmark:application name="File Manager" exec="&apos;file-roller %U&apos;" modified="2012-04-15T06:57:15Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/Elements/Ruby/rubygems-1.8.21.zip" added="2012-04-15T06:55:09Z" modified="2012-04-15T06:55:11Z" visited="2012-04-15T06:55:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Manager" exec="&apos;file-roller %U&apos;" modified="2012-04-15T06:55:09Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2012-04-15T06:55:11Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anjana/.cache/.fr-peJlzU/rubygems-1.8.21/setup.rb" added="2012-04-15T06:55:52Z" modified="2012-04-15T06:55:52Z" visited="2012-04-15T06:55:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2012-04-15T06:55:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anjana/Desktop/Ruby187/bin/irb.bat" added="2012-04-15T08:09:45Z" modified="2012-04-15T08:09:46Z" visited="2012-04-15T08:09:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="File Manager" exec="&apos;gedit %U&apos;" modified="2012-04-15T08:09:45Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2012-04-15T08:09:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anjana/Desktop/Ruby187/bin/rdoc.bat" added="2012-04-15T08:09:56Z" modified="2012-04-15T08:09:56Z" visited="2012-04-15T08:09:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="File Manager" exec="&apos;gedit %U&apos;" modified="2012-04-15T08:09:56Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2012-04-15T08:09:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anjana/Desktop/RailsInstaller/Ruby1.8.7/lib/ruby/1.8/generator.rb" added="2012-04-15T08:16:37Z" modified="2012-04-15T08:16:37Z" visited="2012-04-15T08:16:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="File Manager" exec="&apos;gedit %U&apos;" modified="2012-04-15T08:16:37Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2012-04-15T08:16:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anjana/Desktop/RailsInstaller/Git/bin/patch.exe.manifest" added="2012-04-15T08:22:08Z" modified="2012-04-15T08:22:09Z" visited="2012-04-15T08:22:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/cache-manifest"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="File Manager" exec="&apos;gedit %U&apos;" modified="2012-04-15T08:22:08Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2012-04-15T08:22:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anjana/Desktop/RailsInstaller/Git/bin/vi" added="2012-04-15T08:22:17Z" modified="2012-04-15T08:22:17Z" visited="2012-04-15T08:22:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="File Manager" exec="&apos;gedit %U&apos;" modified="2012-04-15T08:22:17Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2012-04-15T08:22:17Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anjana/Desktop/RailsInstaller/Git/bin/yacc" added="2012-04-15T08:22:28Z" modified="2012-04-15T08:22:29Z" visited="2012-04-15T08:22:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="File Manager" exec="&apos;gedit %U&apos;" modified="2012-04-15T08:22:28Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2012-04-15T08:22:29Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anjana/Desktop/RailsInstaller/Git/bin/awk" added="2012-04-15T08:22:40Z" modified="2012-04-15T08:22:40Z" visited="2012-04-15T08:22:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="File Manager" exec="&apos;gedit %U&apos;" modified="2012-04-15T08:22:40Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2012-04-15T08:22:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/1EED-495E/ruby-1.9.3-p125.tar.tar" added="2012-04-15T08:32:34Z" modified="2012-04-15T08:32:35Z" visited="2012-04-15T08:32:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Manager" exec="&apos;file-roller %U&apos;" modified="2012-04-15T08:32:34Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2012-04-15T08:32:35Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anjana/Desktop/ruby-1.9.3-p125.tar.tar" added="2012-04-15T08:36:24Z" modified="2012-04-15T09:01:15Z" visited="2012-04-15T08:36:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Manager" exec="&apos;file-roller %U&apos;" modified="2012-04-15T09:01:14Z" count="7"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2012-04-15T09:01:15Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anjana/Desktop/ruby-1.9.3-p125/ruby.c" added="2012-04-15T08:36:54Z" modified="2012-04-15T08:36:55Z" visited="2012-04-15T08:36:54Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="File Manager" exec="&apos;gedit %U&apos;" modified="2012-04-15T08:36:54Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2012-04-15T08:36:55Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anjana/.cache/.fr-AWnwZQ/ruby-1.9.3-p125/lib/irb/init.rb" added="2012-04-15T09:01:34Z" modified="2012-04-15T09:01:34Z" visited="2012-04-15T09:01:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2012-04-15T09:01:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/1EED-495E/Install%20Ruby%201_9_3%20on%20Ubuntu%20Lucid%20or%20Oneiric%20%E2%80%94%20Gist.htm" added="2012-04-17T05:07:25Z" modified="2012-04-17T05:07:25Z" visited="2012-04-17T05:07:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="File Manager" exec="&apos;firefox %u&apos;" modified="2012-04-17T05:07:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anjana/Desktop/Untitled%20Document%201" added="2012-04-17T05:08:31Z" modified="2012-04-23T17:39:36Z" visited="2012-04-17T05:08:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2012-04-23T17:39:36Z" count="2"/>
+          <bookmark:application name="File Manager" exec="&apos;gedit %U&apos;" modified="2012-04-23T17:39:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/1EED-495E/ruby1.rtf" added="2012-04-17T05:30:26Z" modified="2012-04-17T05:30:36Z" visited="2012-04-17T05:30:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/rtf"/>
+        <bookmark:applications>
+          <bookmark:application name="File Manager" exec="&apos;libreoffice -writer %U&apos;" modified="2012-04-17T05:30:26Z" count="1"/>
+          <bookmark:application name="LibreOffice 3.3" exec="&apos;soffice %u&apos;" modified="2012-04-17T05:30:36Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="computer:///USBModem%20Disk.drive" added="2012-04-20T08:04:38Z" modified="2012-04-20T08:06:35Z" visited="2012-04-20T08:04:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="File Manager" exec="&apos;/usr/bin/software-center %u&apos;" modified="2012-04-20T08:06:35Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anjana/.cache/.fr-BIV2GA/curl-7.25.0/config.guess" added="2012-04-21T17:34:24Z" modified="2012-04-21T17:34:24Z" visited="2012-04-21T17:34:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2012-04-21T17:34:24Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/curl-7.25.0.tar.gz" added="2012-04-21T17:35:59Z" modified="2012-04-21T17:35:59Z" visited="2012-04-21T17:35:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Manager" exec="&apos;/usr/lib/gvfs/gvfsd-archive file=%u&apos;" modified="2012-04-21T17:35:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anjana/.cache/.fr-K8Qe0O/curl-7.25.0/compile" added="2012-04-21T17:54:05Z" modified="2012-04-21T17:54:09Z" visited="2012-04-21T17:54:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2012-04-21T17:54:09Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anjana/Desktop/snow_grader.jpg" added="2012-04-22T14:08:27Z" modified="2012-04-22T14:08:28Z" visited="2012-04-22T14:08:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="File Manager" exec="&apos;eog %U&apos;" modified="2012-04-22T14:08:27Z" count="1"/>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2012-04-22T14:08:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anjana/Desktop/secondary-tillage-implements-mainmenu-112.html" added="2012-04-22T14:13:12Z" modified="2012-04-22T14:13:12Z" visited="2012-04-22T14:13:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="File Manager" exec="&apos;firefox %u&apos;" modified="2012-04-22T14:13:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anjana/Desktop/types-of-farm-power-mainmenu-118.html" added="2012-04-22T14:20:50Z" modified="2012-04-22T14:20:50Z" visited="2012-04-22T14:20:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="File Manager" exec="&apos;firefox %u&apos;" modified="2012-04-22T14:20:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/RAMACHANDRA/types-of-farm-power-mainmenu-118_files/llimage1.jpg" added="2012-04-22T14:25:23Z" modified="2012-04-22T14:25:23Z" visited="2012-04-22T14:25:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="File Manager" exec="&apos;eog %U&apos;" modified="2012-04-22T14:25:23Z" count="1"/>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2012-04-22T14:25:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/RAMACHANDRA/types-of-farm-power-mainmenu-118_files/fpimage1.jpg" added="2012-04-22T14:25:27Z" modified="2012-04-22T14:25:27Z" visited="2012-04-22T14:25:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="File Manager" exec="&apos;eog %U&apos;" modified="2012-04-22T14:25:27Z" count="1"/>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2012-04-22T14:25:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/RAMACHANDRA/cost-of-land-leveling-mainmenu-68.html" added="2012-04-22T14:25:38Z" modified="2012-04-22T14:25:38Z" visited="2012-04-22T14:25:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="File Manager" exec="&apos;firefox %u&apos;" modified="2012-04-22T14:25:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anjana/Desktop/laser-controlled-land-leveling-systems-mainmenu-90.html" added="2012-04-23T02:20:01Z" modified="2012-04-23T02:20:01Z" visited="2012-04-23T02:20:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="File Manager" exec="&apos;firefox %u&apos;" modified="2012-04-23T02:20:01Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anjana/.bashrc" added="2012-04-23T17:45:15Z" modified="2012-04-23T17:45:47Z" visited="2012-04-23T17:45:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2012-04-23T17:45:47Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anjana/Untitled%20Document%201" added="2012-04-24T16:55:03Z" modified="2012-04-24T17:08:10Z" visited="2012-04-24T16:55:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2012-04-24T17:08:10Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anjana/setr.c" added="2012-04-24T17:08:50Z" modified="2012-04-24T17:09:28Z" visited="2012-04-24T17:08:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2012-04-24T17:09:28Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anjana/bundler" added="2012-04-24T17:14:57Z" modified="2012-04-24T17:14:57Z" visited="2012-04-24T17:14:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2012-04-24T17:14:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anjana/rails_projects/first_app/Gemfile" added="2012-04-24T17:32:15Z" modified="2012-04-24T17:55:05Z" visited="2012-04-24T17:32:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2012-04-24T17:55:05Z" count="15"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anjana/rails_projects/first_app/.gitignore" added="2012-04-25T10:29:53Z" modified="2012-04-25T10:30:15Z" visited="2012-04-25T10:29:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2012-04-25T10:30:15Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anjana/rails_projects/first_app/id_rsa.pub" added="2012-04-25T11:40:38Z" modified="2012-04-25T11:53:57Z" visited="2012-04-25T11:40:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2012-04-25T11:53:57Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anjana/Desktop/DSCF2669.JPG" added="2012-04-26T06:54:44Z" modified="2012-04-26T06:54:51Z" visited="2012-04-26T06:54:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="File Manager" exec="&apos;eog %U&apos;" modified="2012-04-26T06:54:44Z" count="1"/>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2012-04-26T06:54:51Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anjana/Desktop/102_2118.JPG" added="2012-04-26T06:54:49Z" modified="2012-04-26T06:54:49Z" visited="2012-04-26T06:54:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2012-04-26T06:54:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anjana/.ssh/id_rsa.pub" added="2012-04-26T08:03:47Z" modified="2012-04-26T08:03:47Z" visited="2012-04-26T08:03:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2012-04-26T08:03:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anjana/.gitignore" added="2012-04-26T10:40:45Z" modified="2012-04-26T10:41:24Z" visited="2012-04-26T10:40:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2012-04-26T10:41:24Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

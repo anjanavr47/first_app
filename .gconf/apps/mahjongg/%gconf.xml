@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="height" mtime="1334477900" type="int" value="440"/>
+	<entry name="width" mtime="1334477900" type="int" value="530"/>
+	<entry name="show_toolbar" mtime="1334477898" type="bool" value="true"/>
+</gconf>

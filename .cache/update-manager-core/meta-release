@@ -1,0 +1,96 @@
+<!-- saved from url=(0022)http://internet.e-mail -->
+<!-- saved from url=(0022)http://internet.e-mail -->
+<!-- saved from url=(0022)http://internet.e-mail -->
+<!-- saved from url=(0022)http://internet.e-mail -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content="HTML Tidy for Linux/x86 (vers 1st July 2004), see www.w3.org" />
+ <meta http-equiv="Content-Type" content="text/html;" />
+ <meta http-equiv="pragma" content="no-cache" />
+ <meta http-equiv="expires" content="-1" />
+ <meta http-equiv="Content-Type" content="text/html; charset=us-ascii" />
+
+<link rel="shortcut icon" href="images/asianet.ico" type="image/x-icon">
+<title>Welcome to India's  Leading Internet Service Provider Asianet</title>
+
+<style type="text/css">
+body{margin:0 auto;padding:0px;background-color:#006B8F;}
+.total{margin: 0 auto;padding: 0px;width: 100%;height: 680px;background-color:#FFFFFF;}
+.top{padding: 1% 0% 0% 2%;float: left;width: 98%;margin-bottom: 10px; background-image: url('https://images.adlkerala.com/images/back1.jpg');
+  background-repeat: repeat-x;border-bottom: solid 1px #1371D1;}
+ .middle{float:left;width:100%; height: 438px;}
+ .content{
+        width: 58%;
+        float: left;
+        padding: 7% 0% 0% 7%;
+        font-family: Calibri;
+        font-size: 30px;
+        color: #333333;
+        text-align: center;
+        font-weight: bold;
+    }
+ .login{font-size:13px;border: 1px #C0C0C0 solid; float:left; list-style-type:none; margin:4% 0px 0px 4%; padding:2% 0px 2% 2%; width: 23%;  background-color: #E6E6E6; font-family: Arial, Helvetica, sans-serif;color:#333333;}
+ .buttonstyle{width: 81px; background-color: #333333; color: #FFFFFF; height: 30px;}
+ .bottom{float: left;width: 100%;height: 98px;border-top: solid 1px #1371D1;background-image:url('https://images.adlkerala.com/images/back2.jpg');}
+ a{text-decoration:none;color:#333333;}
+ a:hover{text-decoration:underline;}
+.style3 {
+	font-size: 24px;
+	color: #00CCFF;
+}
+</style>
+
+</head>
+<body >
+<form method="post" action="https://mwcp-tvm-04.adlkerala.com:8001/">
+
+	<input name="redirurl" type="hidden" value="$PORTAL_REDIRURL$">
+
+	
+	
+	
+<div class="total">
+<div class="top">
+
+<img src="https://images.adlkerala.com/images/adl.png" style="float:left;" />
+</div>
+<div class="middle">
+
+  <ul class="login">
+  <li style="height:41px; font-size: 20px; font-weight: bold;">Login</li>
+<li style="height: 20px;">username</li>
+<li style="height: 42px"><input type='text' name='auth_user' /></li>
+<li style="height: 18px">Password</li>
+<li style="height: 52px"><input type='password' name='auth_pass' /></li>
+<li style="height: 52px"><input type='submit' name='accept' value="Login &gt;&gt;" 
+        class="buttonstyle" />
+</li>
+
+<li><a href="https://myaccount.adlkerala.com/login.php" target="_blank">My Account</a>&nbsp;&nbsp;&nbsp;<a href="http://www.asianetdataline.com/contact.aspx" target="_blank"> Customer Care</a></li>
+
+  </ul>
+  <p class="content"><!--Thank you for making us<br />
+India's  Leading Internet Service Provider<br />-->
+<span style="color:#FF0000;font-size:14px;">
+</span> <span style="color:#FF0000;font-size:14px;">For customers coming under Attingal and Varkala Center will experience service interruption from 23/04/2012  
+for one week due to shifting of office .
+Our New Office Address: USHUS, Opp:Govt ITI, N.H Road,  
+Attingal.</span><br />
+<span class="style3">Thank you for making us
+India's Leading Internet Service Provider</span><br />
+
+<a href="http://www.asianetdigital.co.in/combo_offer.aspx" target="_blank">
+      <img border="0" src="https://images.adlkerala.com/images/com_offer.jpg" 
+          style=" height: 130px; width: 60%;"/></a></p>
+        
+</div>
+<div class="bottom">
+
+</div>
+</div>
+</form>
+
+</body>
+</html>

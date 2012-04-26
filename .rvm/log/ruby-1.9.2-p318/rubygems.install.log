@@ -1,0 +1,36 @@
+[2012-04-21 23:52:56] GEM_PATH="/home/anjana/.rvm/gems/ruby-1.9.2-p318:/home/anjana/.rvm/gems/ruby-1.9.2-p318@global:/home/anjana/.rvm/gems/ruby-1.9.2-p318:/home/anjana/.rvm/gems/ruby-1.9.2-p318@global" GEM_HOME="/home/anjana/.rvm/gems/ruby-1.9.2-p318" "/home/anjana/.rvm/rubies/ruby-1.9.2-p318/bin/ruby" "/home/anjana/.rvm/src/rubygems-1.8.23/setup.rb"
+RubyGems 1.8.23 installed
+
+== 1.8.23 / 2012-04-19
+
+This release increases the security used when RubyGems is talking to
+an https server. If you use a custom RubyGems server over SSL, this
+release will cause RubyGems to no longer connect unless your SSL cert
+is globally valid.
+
+You can configure SSL certificate usage in RubyGems through the
+:ssl_ca_cert and :ssl_verify_mode options in ~/.gemrc and /etc/gemrc.
+The recommended way is to set :ssl_ca_cert to the CA certificate for
+your server or a certificate bundle containing your CA certification.
+
+You may also set :ssl_verify_mode to 0 to completely disable SSL
+certificate checks, but this is not recommended.
+
+
+* 2 security fixes:
+  * Disallow redirects from https to http
+  * Turn on verification of server SSL certs
+
+* 1 minor feature:
+  * Add --clear-sources to fetch
+
+* 2 bug fixes:
+  * Use File.identical? to check if two files are the same.
+  * Fixed init_with warning when using psych
+
+
+------------------------------------------------------------------------------
+
+RubyGems installed the following executables:
+	/home/anjana/.rvm/rubies/ruby-1.9.2-p318/bin/gem
+

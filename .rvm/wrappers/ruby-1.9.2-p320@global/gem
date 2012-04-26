@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+if [[ -s "/home/anjana/.rvm/environments/ruby-1.9.2-p320@global" ]]
+then
+  source "/home/anjana/.rvm/environments/ruby-1.9.2-p320@global"
+  exec gem "$@"
+else
+  echo "ERROR: Missing RVM environment file: '/home/anjana/.rvm/environments/ruby-1.9.2-p320@global'" >&2
+  exit 1
+fi
+  

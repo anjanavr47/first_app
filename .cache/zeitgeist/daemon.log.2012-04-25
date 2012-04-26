@@ -1,0 +1,69 @@
+[2012-04-25 09:41:57,393] - DEBUG - singleton - Checking for another running instance...
+[2012-04-25 09:41:57,398] - INFO - zeitgeist.sql - Using database: /home/anjana/.local/share/zeitgeist/activity.sqlite
+[2012-04-25 09:41:57,399] - DEBUG - zeitgeist.sql - Core schema is good. DB loaded in 1.30701065063ms
+[2012-04-25 09:41:57,399] - DEBUG - zeitgeist.extension - Searching for system extensions in: /usr/share/zeitgeist/_zeitgeist/engine/extensions
+[2012-04-25 09:41:57,400] - DEBUG - zeitgeist.extension - Searching for user extensions in: /home/anjana/.local/share/zeitgeist/extensions
+[2012-04-25 09:41:57,436] - DEBUG - zeitgeist.extension - No extra extensions
+[2012-04-25 09:41:57,436] - DEBUG - zeitgeist.extension - Found extensions: [<class '_zeitgeist.engine.extensions.fts.SearchEngineExtension'>, <class '_zeitgeist.engine.extensions.datasource_registry.DataSourceRegistry'>, <class '_zeitgeist.engine.extensions.blacklist.Blacklist'>]
+[2012-04-25 09:41:57,437] - DEBUG - zeitgeist.extension - Loading extension 'SearchEngineExtension'
+[2012-04-25 09:41:57,437] - DEBUG - zeitgeist.fts - Opening full text index: /home/anjana/.local/share/zeitgeist/fts.index
+[2012-04-25 09:41:57,453] - DEBUG - zeitgeist.extension - Loading extension 'DataSourceRegistry'
+[2012-04-25 09:41:57,454] - DEBUG - zeitgeist.datasource_registry - Loaded data-source data from /home/anjana/.local/share/zeitgeist/datasources.pickle
+[2012-04-25 09:41:57,454] - DEBUG - zeitgeist.extension - Loading extension 'Blacklist'
+[2012-04-25 09:41:57,454] - DEBUG - zeitgeist.blacklist - No existing blacklist config found
+[2012-04-25 09:41:57,455] - INFO - root - Trying to start the datahub
+[2012-04-25 09:41:57,460] - DEBUG - root - Running datahub (/usr/bin/zeitgeist-datahub) with PID=1511
+[2012-04-25 09:41:57,460] - INFO - root - Starting Zeitgeist service...
+[2012-04-25 09:41:57,602] - DEBUG - zeitgeist.engine - Inserted 12 events out of 12 in 0.004582s
+[2012-04-25 09:41:57,606] - DEBUG - zeitgeist.fts - Indexing 'file:///home/anjana/rails_projects/first_app/Gemfile'
+[2012-04-25 09:41:57,799] - DEBUG - zeitgeist.fts - Indexing 'file:///home/anjana/rails_projects/first_app/Gemfile'
+[2012-04-25 09:41:57,803] - DEBUG - zeitgeist.fts - Indexing 'file:///home/anjana/rails_projects/first_app/Gemfile'
+[2012-04-25 09:41:57,806] - DEBUG - zeitgeist.fts - Indexing 'file:///home/anjana/bundler'
+[2012-04-25 09:41:57,807] - DEBUG - zeitgeist.fts - Indexing 'file:///home/anjana/bundler'
+[2012-04-25 09:41:57,808] - DEBUG - zeitgeist.fts - Indexing 'file:///home/anjana/bundler'
+[2012-04-25 09:41:57,810] - DEBUG - zeitgeist.fts - Indexing 'file:///home/anjana/setr.c'
+[2012-04-25 09:41:57,811] - DEBUG - zeitgeist.fts - Indexing 'file:///home/anjana/setr.c'
+[2012-04-25 09:41:57,812] - DEBUG - zeitgeist.fts - Indexing 'file:///home/anjana/setr.c'
+[2012-04-25 09:41:57,813] - DEBUG - zeitgeist.fts - Indexing 'file:///home/anjana/Untitled%20Document%201'
+[2012-04-25 09:41:57,815] - DEBUG - zeitgeist.fts - Indexing 'file:///home/anjana/Untitled%20Document%201'
+[2012-04-25 09:41:57,817] - DEBUG - zeitgeist.fts - Indexing 'file:///home/anjana/Untitled%20Document%201'
+[2012-04-25 09:41:58,318] - DEBUG - zeitgeist.fts - Committing FTS index
+[2012-04-25 10:13:55,852] - DEBUG - zeitgeist.fts - Indexing 'application://gnome-terminal.desktop'
+[2012-04-25 10:13:55,929] - DEBUG - zeitgeist.engine - Inserted 1 events out of 1 in 0.077374s
+[2012-04-25 10:13:56,354] - DEBUG - zeitgeist.fts - Committing FTS index
+[2012-04-25 15:22:06,431] - DEBUG - singleton - Checking for another running instance...
+[2012-04-25 15:22:06,479] - INFO - zeitgeist.sql - Using database: /home/anjana/.local/share/zeitgeist/activity.sqlite
+[2012-04-25 15:22:06,481] - DEBUG - zeitgeist.sql - Core schema is good. DB loaded in 2.0489692688ms
+[2012-04-25 15:22:06,481] - DEBUG - zeitgeist.extension - Searching for system extensions in: /usr/share/zeitgeist/_zeitgeist/engine/extensions
+[2012-04-25 15:22:06,481] - DEBUG - zeitgeist.extension - Searching for user extensions in: /home/anjana/.local/share/zeitgeist/extensions
+[2012-04-25 15:22:06,522] - DEBUG - zeitgeist.extension - No extra extensions
+[2012-04-25 15:22:06,522] - DEBUG - zeitgeist.extension - Found extensions: [<class '_zeitgeist.engine.extensions.fts.SearchEngineExtension'>, <class '_zeitgeist.engine.extensions.datasource_registry.DataSourceRegistry'>, <class '_zeitgeist.engine.extensions.blacklist.Blacklist'>]
+[2012-04-25 15:22:06,523] - DEBUG - zeitgeist.extension - Loading extension 'SearchEngineExtension'
+[2012-04-25 15:22:06,523] - DEBUG - zeitgeist.fts - Opening full text index: /home/anjana/.local/share/zeitgeist/fts.index
+[2012-04-25 15:22:06,546] - DEBUG - zeitgeist.extension - Loading extension 'DataSourceRegistry'
+[2012-04-25 15:22:06,555] - DEBUG - zeitgeist.datasource_registry - Loaded data-source data from /home/anjana/.local/share/zeitgeist/datasources.pickle
+[2012-04-25 15:22:06,566] - DEBUG - zeitgeist.extension - Loading extension 'Blacklist'
+[2012-04-25 15:22:06,566] - DEBUG - zeitgeist.blacklist - No existing blacklist config found
+[2012-04-25 15:22:06,567] - INFO - root - Trying to start the datahub
+[2012-04-25 15:22:06,573] - DEBUG - root - Running datahub (/usr/bin/zeitgeist-datahub) with PID=1531
+[2012-04-25 15:22:06,574] - INFO - root - Starting Zeitgeist service...
+[2012-04-25 15:50:34,162] - DEBUG - zeitgeist.fts - Indexing 'application://gnome-terminal.desktop'
+[2012-04-25 15:50:34,292] - DEBUG - zeitgeist.engine - Inserted 1 events out of 1 in 0.130481s
+[2012-04-25 15:50:34,816] - DEBUG - zeitgeist.fts - Committing FTS index
+[2012-04-25 15:59:54,274] - DEBUG - zeitgeist.engine - Inserted 3 events out of 3 in 0.007488s
+[2012-04-25 15:59:54,276] - DEBUG - zeitgeist.fts - Indexing 'file:///home/anjana/rails_projects/first_app/.gitignore'
+[2012-04-25 15:59:54,277] - DEBUG - zeitgeist.fts - Indexing 'file:///home/anjana/rails_projects/first_app/.gitignore'
+[2012-04-25 15:59:54,279] - DEBUG - zeitgeist.fts - Indexing 'file:///home/anjana/rails_projects/first_app/.gitignore'
+[2012-04-25 15:59:54,780] - DEBUG - zeitgeist.fts - Committing FTS index
+[2012-04-25 16:00:15,057] - DEBUG - zeitgeist.fts - Indexing 'file:///home/anjana/rails_projects/first_app/.gitignore'
+[2012-04-25 16:00:15,096] - DEBUG - zeitgeist.engine - Inserted 1 events out of 1 in 0.041727s
+[2012-04-25 16:00:15,559] - DEBUG - zeitgeist.fts - Committing FTS index
+[2012-04-25 17:11:39,695] - DEBUG - zeitgeist.fts - Indexing 'file:///home/anjana/rails_projects/first_app/id_rsa.pub'
+[2012-04-25 17:11:39,704] - DEBUG - zeitgeist.engine - Inserted 1 events out of 1 in 0.011774s
+[2012-04-25 17:11:40,196] - DEBUG - zeitgeist.fts - Committing FTS index
+[2012-04-25 17:23:58,913] - DEBUG - zeitgeist.engine - Inserted 1 events out of 1 in 0.004506s
+[2012-04-25 17:23:58,915] - DEBUG - zeitgeist.fts - Indexing 'file:///home/anjana/rails_projects/first_app/id_rsa.pub'
+[2012-04-25 17:23:59,416] - DEBUG - zeitgeist.fts - Committing FTS index
+[2012-04-25 17:41:16,808] - DEBUG - zeitgeist.fts - Indexing 'application://gedit.desktop'
+[2012-04-25 17:41:16,826] - DEBUG - zeitgeist.engine - Inserted 1 events out of 1 in 0.018171s
+[2012-04-25 17:41:17,310] - DEBUG - zeitgeist.fts - Committing FTS index

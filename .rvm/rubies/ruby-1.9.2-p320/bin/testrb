@@ -1,0 +1,18 @@
+#!/usr/bin/env ruby
+ENV['GEM_HOME']=ENV['GEM_HOME'] || '/home/anjana/.rvm/gems/ruby-1.9.2-p320'
+ENV['GEM_PATH']=ENV['GEM_PATH'] || '/home/anjana/.rvm/gems/ruby-1.9.2-p320:/home/anjana/.rvm/gems/ruby-1.9.2-p320@global'
+ENV['PATH']='/home/anjana/.rvm/gems/ruby-1.9.2-p320/bin:/home/anjana/.rvm/gems/ruby-1.9.2-p320@global/bin:/home/anjana/.rvm/rubies/ruby-1.9.2-p320/bin:' + ENV['PATH']
+
+require 'test/unit'
+Test::Unit.setup_argv {|files|
+  if files.empty?
+    puts "Usage: testrb [options] tests..."
+    exit 1
+  end
+  if files.size == 1
+    $0 = File.basename(files[0])
+  else
+    $0 = files.to_s
+  end
+  files
+}

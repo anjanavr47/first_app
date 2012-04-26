@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="remind_reload" mtime="1335035882" type="bool" value="false"/>
+	<entry name="window_size" mtime="1335423282" type="pair">
+		<car type="int" value="600"/>
+		<cdr type="int" value="600"/>
+	</entry>
+	<entry name="first_run" mtime="1335031034" type="bool" value="false"/>
+	<entry name="show_details" mtime="1335202949" type="bool" value="true"/>
+	<entry name="launch_time" mtime="1335423274" type="int" value="1335423274"/>
+</gconf>

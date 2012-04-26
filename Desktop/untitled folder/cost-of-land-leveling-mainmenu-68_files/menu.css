@@ -1,0 +1,90 @@
+.menu1 {float:left;width:100%;font:100 11px arial;margin:0;padding:0;}
+.menu1 ul {padding:0;margin:0 0 0 -5px;list-style-type:none;}
+.menu1 ul li {float:left;position:relative;background:none;margin:0 0 0 0;padding:0;}
+
+/*- CUSTOM -------------*/
+.menu1 ul .menubg_greenleft,.menu1 ul .menubg_greenleft:hover {width:29px;height:29px;background:url(../images/CKBtemplateImages/tab_green_left.gif);display:block;}
+.menu1 ul .menubg_greenitem,.menu1 ul .menubg_greenitem:hover {background:url(../images/CKBtemplateImages/tab_green_tile.gif) repeat-x;display:block;}
+
+.menu1 ul .menubg_greenspace,.menu1 ul .menubg_greenspace:hover {background:url(../images/CKBtemplateImages/tab_green_tile.gif) repeat-x;width:16px;height:29px;display:block;}
+
+.menu1 ul .menubg_greenright,.menu1 ul .menubg_greenright:hover {width:29px;height:29px;background:url(../images/CKBtemplateImages/tab_green_right.gif);display:block;}
+.menu1 ul .menubg_wheatleft,.menu1 ul .menubg_wheatleft:hover {width:29px;height:29px;background:url(../images/CKBtemplateImages/tab_wheat_left.gif);display:block;}
+.menu1 ul .menubg_wheatitem,.menu1 ul .menubg_wheatitem:hover {background:url(../images/CKBtemplateImages/tab_wheat_tile.gif) repeat-x;display:block;}
+
+.menu1 ul .menubg_wheatspace,.menu1 ul .menubg_wheatspace:hover {background:url(../images/CKBtemplateImages/tab_wheat_tile.gif) repeat-x;width:16px;height:29px;display:block;}
+.menu1 ul .menubg_wheatright,.menu1 ul .menubg_wheatright:hover {width:29px;height:29px;background:url(../images/CKBtemplateImages/tab_wheat_right.gif);display:block;}
+/*----------------------*/
+
+.menu1 ul li a, .menu1 ul li a:visited {float:left;display:block;text-decoration:none;margin:8px 0px 0px 0px;height:29px;padding:0;}
+.menu1 ul li:hover {width:auto;}
+
+/* DROPPED MENU - when hidden */
+.menu1 ul li ul {display:none;margin:0;}
+.menu1 table {margin:0;border-collapse:collapse;font:100 11px arial;position:absolute;top:0;left:0;}
+
+/* DROPPED MENU - specific to non IE browsers */
+.menu1 ul .menubg_greenspace:hover ul, .menu1 ul .menubg_greenspace:hover ul li, .menu1 ul .menubg_greenspace:hover ul li a {display:none;visibility:hidden;}
+
+
+.menu1 ul li:hover ul {display:block;position:absolute;top:27px;margin-top:1px;left:0;width:180px;/*border-bottom:1px solid #000;*/}
+	.menu1 ul li:hover a:hover ul {display:block;position:absolute;top:27px;margin-top:1px;left:0;width:180px;/*border-bottom:1px solid #000;*/}
+.menu1 ul li:hover ul.endstop {left:-92px;}
+	.menu1 ul li:hover a:hover ul.endstop {left:-92px;}
+.menu1 ul li:hover ul li ul {display:none;}
+	.menu1 ul li:hover a:hover ul li ul {display:none;}
+.menu1 ul li:hover ul li a {font:100 11px arial;display:block;height:auto;color:#f0ffa6;padding:4px 16px 6px 12px;width:140px;background: #658B19;margin:0;}
+	.menu1 ul li:hover a:hover ul li a {font:100 11px arial;display:block;height:auto;color:#f0ffa6;padding:4px 16px 6px 12px;width:140px;background: #658B19;margin:0;}
+.menu1 ul li:hover .customwidth1 li a {width:220px;}
+	.menu1 ul li:hover a:hover .customwidth1 li a {width:220px;}
+.menu1 ul li:hover .customwidth2 li a {width:230px;}
+	.menu1 ul li:hover a:hover .customwidth2 li a {width:230px;}
+.menu1 ul li:hover .customwidth3 li a {width:270px;}
+	.menu1 ul li:hover a:hover .customwidth3 li a a.drop{width:270px;overflow:auto;}
+.menu1 ul li:hover .customwidth4 li a {width:200px;background:#9E9C55;overflow:auto;}
+	.menu1 ul li:hover a:hover .customwidth4 li a a.drop{width:200px;background:#9E9C55;}
+	
+	
+.menu1 ul li:hover ul li a.drop {background:url(../images/CKBtemplateImages/tile_menuitem_drop.png) repeat-x bottom;}
+	.menu1 ul li:hover a:hover ul li a.drop {background:url(../images/CKBtemplateImages/tile_menuitem_drop.png) repeat-x bottom;}
+	
+.menu1 ul li:hover ul li a:hover {color:#fff;background:#ADC57A;}
+	.menu1 ul li:hover a:hover ul li a:hover {color:#fff;background:#ADC57A;}
+ .menu1 ul li:hover ul li drop:hover {color:#fff;background:#ADC57A} 
+	.menu1 ul li:hover a:hover ul li drop:hover {color:#fff;background:#64891a;}
+/* FLYOUT MENU */
+.menu1 ul li:hover ul li:hover ul {display:block;position:absolute;left:150px;top:-1px;z-index:200;border: 1px thick;}
+
+.menu1 ul li:hover ul li:hover .customoffset1 {overflow:auto;height:300px;width:213px;margin:0;}
+.menu1 ul li:hover ul li:hover .customoffset1 li a{width:176px;margin:0;padding:4px 8px 6px 12px;}
+.menu1 ul li:hover ul li:hover .customoffset2 {margin:0;top:0px;}/* EDIT Sept 2, 2009 xxxxxxxx top:-40px xxxxxxxx */
+.menu1 ul li:hover ul li:hover .customoffset2 li a{width:150px;margin:0;padding:4px 8px 6px 12px;}
+.menu1 ul li:hover ul li:hover .customoffset3 {overflow:auto;height:300px;width:213px;margin:0;top:-230px;}
+.menu1 ul li:hover ul li:hover .customoffset3 li a{width:176px;margin:0;padding:4px 8px 6px 12px;}
+
+.menu1 ul li:hover ul li:hover ul a{color:#f0ffa6;background:url(../images/CKBtemplateImages/tile_menuitem.png) repeat-x bottom;z-index:200;}
+.menu1 ul li:hover ul li:hover ul a:hover{color:#fff;background:#64891a;}
+.menu1 ul li:hover ul li:hover ul.left {left:-13px;}
+
+
+
+/* specific to IE5.5 and IE6 browsers */
+.menu1 ul li a:hover ul {display:block;position:absolute;top:19px; t\op:20px;left:0;}
+.menu1 ul li a:hover ul.endstop {left: -92px;}
+.menu1 ul li a:hover ul li a {display:block;color:#dbf077;height:1px; line-height:12px; padding:4px 16px; width:154px; w\idth:120px;background:#fff;}
+.menu1 ul li a:hover ul li a.drop {background:#ccd; padding-bottom:4px;}
+
+.menu1 ul li a:hover ul li a ul {visibility:hidden; position:absolute; height:0; width:0;}
+.menu1 ul li a:hover ul li a:hover {color:#000; background: #ccd;}
+.menu1 ul li a:hover ul li a:hover.drop { background: #ccd;}
+.menu1 ul li a:hover ul li a:hover ul {visibility:visible; position:absolute; top:0;color:#000; left:153px;}
+.menu1 ul li a:hover ul li a:hover ul.left {left:-153px;}
+
+.menu1 ul .menuDropDown_heading, .menu1 ul .menuDropDown_heading:hover { font-family:Arial, Helvetica, sans-serif; font-weight: bold; padding: 4px; color:#f0ffa6; font-size: 14px; width:220px;background:#787741;}
+
+
+/* navigation.php style 
+.menu2 {width:100%;font:100 11px arial;margin:0;padding:0;}
+.menu2 ul {padding:0;margin:0 0 0 5px;}
+.menu2 ul li {position:relative;background:none;margin:0;padding-left:10px;}
+*/

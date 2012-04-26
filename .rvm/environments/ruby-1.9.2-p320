@@ -1,0 +1,12 @@
+export PATH ; PATH="/home/anjana/.rvm/gems/ruby-1.9.2-p320/bin:/home/anjana/.rvm/gems/ruby-1.9.2-p320@global/bin:/home/anjana/.rvm/rubies/ruby-1.9.2-p320/bin:/home/anjana/.rvm/bin:$PATH"
+export rvm_env_string ; rvm_env_string='ruby-1.9.2-p320'
+export rvm_path ; rvm_path='/home/anjana/.rvm'
+export rvm_ruby_string ; rvm_ruby_string='ruby-1.9.2-p320'
+unset rvm_gemset_name
+export RUBY_VERSION ; RUBY_VERSION='ruby-1.9.2-p320'
+export GEM_HOME ; GEM_HOME='/home/anjana/.rvm/gems/ruby-1.9.2-p320'
+export GEM_PATH ; GEM_PATH='/home/anjana/.rvm/gems/ruby-1.9.2-p320:/home/anjana/.rvm/gems/ruby-1.9.2-p320@global'
+export MY_RUBY_HOME ; MY_RUBY_HOME='/home/anjana/.rvm/rubies/ruby-1.9.2-p320'
+export IRBRC ; IRBRC='/home/anjana/.rvm/rubies/ruby-1.9.2-p320/.irbrc'
+unset MAGLEV_HOME
+unset RBXOPT

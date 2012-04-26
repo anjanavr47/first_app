@@ -1,0 +1,50 @@
+exec -a banshee mono  /usr/lib/banshee/Banshee.exe    --redirect-log --play-enqueued
+
+[Info  06:59:20.895] Running Banshee 2.0.0: [Ubuntu 11.04 (linux-gnu, x86_64) @ 2011-06-28 05:39:10 UTC]
+[Info  06:59:27.920] Updating web proxy from GConf
+[Info  06:59:27.981] All services are started 5.122982
+[Warn  06:59:28.688] Migrating Internet Radio Stations - System.IO.DirectoryNotFoundException: Directory '/home/anjana/.config/banshee/plugins/stations/user' not found. (in `mscorlib')
+  at System.IO.Directory.GetFileSystemEntries (System.String path, System.String searchPattern, FileAttributes mask, FileAttributes attrs) [0x00000] in <filename unknown>:0 
+  at System.IO.Directory.GetFiles (System.String path, System.String searchPattern) [0x00000] in <filename unknown>:0 
+  at Banshee.InternetRadio.XspfMigrator.Migrate () [0x00000] in <filename unknown>:0 
+** (Banshee:1750): DEBUG: Syncdaemon not running, waiting for it to start in NameOwnerChanged
+
+(Banshee:1750): libsoup-WARNING **: No feature manager for feature of type 'U1RequestChrome'
+
+** (Banshee:1750): WARNING **: Error calling get_info: Traceback (most recent call last):
+  File "/usr/lib/pymodules/python2.7/dbus/service.py", line 702, in _message_cb
+    retval = candidate_method(self, *args, **keywords)
+  File "/usr/lib/pymodules/python2.7/ubuntuone-client/ubuntuone/platform/linux/dbus_interface.py", line 992, in get_info
+    return self.syncdaemon_folders.get_info(path)
+  File "/usr/lib/pymodules/python2.7/ubuntuone-client/ubuntuone/syncdaemon/interaction_interfaces.py", line 634, in get_info
+    mdobj = self.fs.get_by_path(path.encode('utf-8'))
+  File "/usr/lib/pymodules/python2.7/ubuntuone-client/ubuntuone/syncdaemon/filesystem_manager.py", line 776, in get_by_path
+    mdid = self._idx_path[path]
+KeyError: '/home/anjana/.ubuntuone/Purchased from Ubuntu One'
+
+
+** (Banshee:1750): CRITICAL **: syncdaemon_folder_info_get_subscribed: assertion `SYNCDAEMON_IS_FOLDER_INFO (finfo)' failed
+
+** (Banshee:1750): WARNING **: Error rescanning Purchased Music: No such file or directory
+** (Banshee:1750): DEBUG: Got notification of SyncDaemon startup in NameOwnerChanged
+[Warn  06:59:32.383] Forcefully breaking out of RCS loop b/c change in total_width less than 1.0
+** (Banshee:1750): DEBUG: Loading the real store page
+
+** (Banshee:1750): WARNING **: Got less number of items in credentials hash table than expected!
+[Info  06:59:32.595] nereid Client Started
+[Info  06:59:32.756] GStreamer version 0.10.32.0, gapless: True, replaygain: False
+[Info  06:59:32.813] AppleDeviceSource is ignoring unmounted volume 471 GB Filesystem
+[Info  06:59:32.977] AppleDeviceSource is ignoring unmounted volume System Reserved
+[Error 06:59:35.909] GStreamer resource error: NotFound
+[Error 06:59:36.249] GStreamer resource error: NotFound
+[Error 06:59:36.536] GStreamer resource error: NotFound
+[Error 06:59:36.817] GStreamer resource error: NotFound
+[Error 06:59:37.096] GStreamer resource error: NotFound
+[Error 06:59:47.069] GStreamer resource error: NotFound
+[Error 06:59:47.354] GStreamer resource error: NotFound
+[Error 06:59:47.636] GStreamer resource error: NotFound
+[Error 06:59:47.917] GStreamer resource error: NotFound
+[Error 06:59:48.198] GStreamer resource error: NotFound
+The application 'Banshee' lost its connection to the display :0.0;
+most likely the X server was shut down or you killed/destroyed
+the application.

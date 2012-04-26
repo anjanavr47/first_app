@@ -1,0 +1,2 @@
+Post.create(title:"Test", content:"Test content", user_id:1)
+rails server #or rails s

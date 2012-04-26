@@ -1,0 +1,24 @@
+[2012-04-23 23:23:12] '/home/anjana/.rvm/scripts/gemsets' initial # under ruby-1.9.2-p320
+Importing initial gemsets for ruby-1.9.2-p320.
+paths: /home/anjana/.rvm/gemsets /home/anjana/.rvm/gemsets/ruby /home/anjana/.rvm/gemsets/ruby/1.9.2 /home/anjana/.rvm/gemsets/ruby/1.9.2/p320
+
+Installing gems listed in /home/anjana/.rvm/gemsets/default.gems file...
+
+
+Processing of /home/anjana/.rvm/gemsets/default.gems is complete.
+
+
+Installing gems listed in /home/anjana/.rvm/gemsets/global.gems file...
+
+installing bundler ...
+bundler  installed.
+installing rubygems-bundler ...
+rubygems-bundler  installed.
+installing rake ...
+rake  installed.
+installing rvm ...
+rvm  installed.
+
+Processing of /home/anjana/.rvm/gemsets/global.gems is complete.
+
+Installation of gems for ruby-1.9.2-p320 is complete.

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="last_context_page" mtime="1335230964" type="string">
+		<stringvalue>lastfm-recommendations</stringvalue>
+	</entry>
+	<entry name="show_context_pane" mtime="1335230964" type="bool" value="false"/>
+</gconf>

@@ -1,0 +1,6 @@
+
+[Default Applications]
+application/x-extension-drive=ubuntu-software-center.desktop
+
+[Added Associations]
+application/x-extension-drive=nautilus-browser.desktop;firefox.desktop;ubuntu-software-center.desktop;

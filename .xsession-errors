@@ -1,0 +1,78 @@
+/etc/gdm/Xsession: Beginning session setup...
+Setting IM through im-switch for locale=en_US.
+Start IM through /etc/X11/xinit/xinput.d/all_ALL linked to /etc/X11/xinit/xinput.d/default.
+GNOME_KEYRING_CONTROL=/tmp/keyring-maOyFZ
+SSH_AUTH_SOCK=/tmp/keyring-maOyFZ/ssh
+GNOME_KEYRING_CONTROL=/tmp/keyring-maOyFZ
+SSH_AUTH_SOCK=/tmp/keyring-maOyFZ/ssh
+GNOME_KEYRING_CONTROL=/tmp/keyring-maOyFZ
+SSH_AUTH_SOCK=/tmp/keyring-maOyFZ/ssh
+** Message: adding killswitch idx 0 state KILLSWITCH_STATE_UNBLOCKED
+** Message: adding killswitch idx 3 state KILLSWITCH_STATE_UNBLOCKED
+** Message: killswitch 0 is KILLSWITCH_STATE_UNBLOCKED
+** Message: killswitch 3 is KILLSWITCH_STATE_UNBLOCKED
+** Message: killswitches state KILLSWITCH_STATE_UNBLOCKED
+** Message: killswitch 0 is KILLSWITCH_STATE_UNBLOCKED
+** Message: killswitch 3 is KILLSWITCH_STATE_UNBLOCKED
+** Message: killswitches state KILLSWITCH_STATE_UNBLOCKED
+Initializing nautilus-gdu extension
+** (process:1522): DEBUG: zeitgeist-datahub.vala:174: Inserting 9 events
+
+(nautilus:1520): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+** (nm-applet:1521): DEBUG: old state indicates that this was not a disconnect 0
+
+(nautilus:1520): GdkPixbuf-CRITICAL **: gdk_pixbuf_format_get_name: assertion `format != NULL' failed
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+
+failed to create drawable
+Window manager warning: Received a _NET_WM_MOVERESIZE message for 0x34000e9 (Welcome to); these messages lack timestamps and therefore suck.
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fb2b494ae00 stream=0x7fb2a4cd4000 src=http://o-o.preferred.asianet-cok1.v7.lscache6.c.youtube.com/videoplayback?upn=_pYkX3aKLRI&sparams=cp%2Cid%2Cip%2Cipbits%2Citag%2Cratebypass%2Csource%2Cupn%2Cexpire&fexp=900304%2C913100%2C910206%2C914102%2C907217&itag=43&ip=116.0.0.0&signature=7E82342C6D7266BDD874273CC2771F972D46FD96.7EE55BEDAF215C1BE8B474CBD187079320AD3C61&sver=3&ratebypass=yes&source=youtube&expire=1335458615&key=yt1&ipbits=8&cp=U0hSSlRQVl9GT0NOMl9MSlpHOnBVWFVtNkRaNE1a&id=5305d5c1db4057e7
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fb2a6891800 stream=0x7fb2a6a4e000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fb2a6891300 stream=0x7fb2a6a4e000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fb2a627ea00 stream=0x7fb29d142000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fb2a605a900 stream=0x7fb29d142000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fb2a557ec00 stream=0x7fb29d142000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fb2a605a900 stream=0x7fb29d142000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fb2a627ea00 stream=0x7fb29d142000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fb2a5597800 stream=0x7fb29d142000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fb2a6890e00 stream=0x7fb2a64f1000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fb2a557c700 stream=0x7fb294bed000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fb2a4638000 stream=0x7fb294bed000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fb2a557c700 stream=0x7fb294bed000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fb2a557ca00 stream=0x7fb294bed000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fb2a557ca00 stream=0x7fb294bed000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fb2a557d300 stream=0x7fb294bed000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fb2976aff00 stream=0x7fb294bed000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fb2976f5200 stream=0x7fb29c4b0000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fb2976f8a00 stream=0x7fb29c697000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fb29494e900 stream=0x7fb29c697000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fb29494e900 stream=0x7fb29c697000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fb29494ef00 stream=0x7fb29c697000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fb29495f100 stream=0x7fb29c697000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+
+(nautilus:1520): GdkPixbuf-CRITICAL **: gdk_pixbuf_format_get_name: assertion `format != NULL' failed
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fb29495f100 stream=0x7fb29c697000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fb29495f200 stream=0x7fb29c697000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fb29495f300 stream=0x7fb29c697000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fb29495f400 stream=0x7fb29c697000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fb29495f500 stream=0x7fb298654000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fb29495f600 stream=0x7fb298654000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fb29494cb00 stream=0x7fb295480000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fb29494b900 stream=0x7fb295480000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fb2954a7f00 stream=0x7fb298091000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+** (process:1522): DEBUG: zeitgeist-datahub.vala:174: Inserting 1 events
+** (process:1522): DEBUG: desktop-launch-listener.vala:118: ran with uri: http://www.facebook.com/ajax/sharer/?s=99&appid=2309869772&p%5B0%5D=100003731777678&p%5B1%5D=289145784503369
+** (process:1522): DEBUG: zeitgeist-datahub.vala:174: Inserting 1 events
+** (process:1522): DEBUG: desktop-launch-listener.vala:118: ran with uri: http://www.facebook.com/ajax/sharer/?s=99&appid=2309869772&p%5B0%5D=100003731777678&p%5B1%5D=289145784503369
+** (process:1522): DEBUG: zeitgeist-datahub.vala:174: Inserting 1 events
+failed to create drawable
+failed to create drawable
+Window manager warning: GtkMenu failed to grab the pointer
+Window manager warning: GtkMenu failed to grab the pointer
+** (process:1522): DEBUG: desktop-launch-listener.vala:118: ran with uri: http://www.facebook.com/ajax/sharer/?s=99&appid=2309869772&p%5B0%5D=100003731777678&p%5B1%5D=289145784503369
+** (process:1522): DEBUG: zeitgeist-datahub.vala:174: Inserting 1 events
+failed to create drawable
+** (process:1522): DEBUG: zeitgeist-datahub.vala:174: Inserting 1 events
+** (process:1522): DEBUG: zeitgeist-datahub.vala:174: Inserting 1 events
+** (process:1522): DEBUG: zeitgeist-datahub.vala:174: Inserting 1 events

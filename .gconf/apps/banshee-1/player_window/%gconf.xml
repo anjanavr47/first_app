@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="last_file_chooser_uri" mtime="1335229572" type="string">
+		<stringvalue>file:///media/1EBE7992BE7962E7/ranjith/malayalam%20classics/malayalam%20classics</stringvalue>
+	</entry>
+	<entry name="height" mtime="1335230972" type="int" value="690"/>
+	<entry name="width" mtime="1335230972" type="int" value="1022"/>
+	<entry name="y_pos" mtime="1335230972" type="int" value="24"/>
+	<entry name="x_pos" mtime="1335230972" type="int" value="0"/>
+	<entry name="maximized" mtime="1335230972" type="bool" value="false"/>
+	<entry name="disable_album_grid" mtime="1335230972" type="bool" value="false"/>
+	<entry name="seek_slider_width" mtime="1335230972" type="int" value="175"/>
+	<entry name="source_view_width" mtime="1335230973" type="int" value="175"/>
+</gconf>
