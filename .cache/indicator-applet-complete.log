@@ -44,3 +44,4 @@ Changing calendar property: calendar-marks
 g_variant_get_string: assertion `value != NULL' failed
 Changing calendar property: calendar-marks
 Changing calendar property: calendar-marks
+Changing calendar property: calendar-marks

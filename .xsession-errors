@@ -278,3 +278,4 @@ failed to create drawable
 (nautilus:1474): GdkPixbuf-CRITICAL **: gdk_pixbuf_format_get_name: assertion `format != NULL' failed
 *** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fe60558c500 stream=0x7fe5f94e5000 src=http://static.ak.fbcdn.net/sound/pling.ogg
 ** (process:1476): DEBUG: zeitgeist-datahub.vala:174: Inserting 1 events
+Window manager warning: Received a _NET_WM_MOVERESIZE message for 0x40000e9 (Ruby on Ra); these messages lack timestamps and therefore suck.
