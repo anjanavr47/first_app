@@ -9,14 +9,14 @@
  * For more information, see http://www.mozilla.org/unix/customizing.html#prefs
  */
 
-user_pref("app.update.lastUpdateTime.addon-background-update-timer", 1335347662);
-user_pref("app.update.lastUpdateTime.blocklist-background-update-timer", 1335347782);
+user_pref("app.update.lastUpdateTime.addon-background-update-timer", 1335591507);
+user_pref("app.update.lastUpdateTime.blocklist-background-update-timer", 1335591627);
 user_pref("app.update.lastUpdateTime.microsummary-generator-update-timer", 1334639368);
-user_pref("app.update.lastUpdateTime.search-engine-update-timer", 1335423547);
+user_pref("app.update.lastUpdateTime.search-engine-update-timer", 1335591747);
 user_pref("browser.bookmarks.restore_default_bookmarks", false);
 user_pref("browser.cache.disk.capacity", 1048576);
 user_pref("browser.cache.disk.smart_size.first_run", false);
-user_pref("browser.cache.disk.smart_size_cached_value", 481280);
+user_pref("browser.cache.disk.smart_size_cached_value", 471040);
 user_pref("browser.download.lastDir", "/home/anjana/Desktop");
 user_pref("browser.download.save_converter_index", 0);
 user_pref("browser.migration.version", 5);
@@ -26,8 +26,8 @@ user_pref("browser.startup.homepage_override.buildID", "20120310011224");
 user_pref("browser.startup.homepage_override.mstone", "rv:11.0");
 user_pref("browser.syncPromoViewsLeft", 0);
 user_pref("distribution.canonical.bookmarksProcessed", true);
-user_pref("extensions.blocklist.pingCountTotal", 5);
-user_pref("extensions.blocklist.pingCountVersion", 3);
+user_pref("extensions.blocklist.pingCountTotal", 7);
+user_pref("extensions.blocklist.pingCountVersion", 5);
 user_pref("extensions.bootstrappedAddons", "{}");
 user_pref("extensions.databaseSchema", 12);
 user_pref("extensions.enabledAddons", "langpack-en-ZA@firefox.mozilla.org:11.0,globalmenu@ubuntu.com:2.0.3,langpack-en-GB@firefox.mozilla.org:11.0,ubufox@ubuntu.com:0.9.4,{972ce4c6-7e08-4474-a285-3208198ce6fd}:11.0");
@@ -44,11 +44,11 @@ user_pref("gfx.blacklist.suggested-driver-version", "<Anything with EXT_texture_
 user_pref("gfx.blacklist.webgl.angle", 4);
 user_pref("gfx.blacklist.webgl.msaa", 4);
 user_pref("gfx.blacklist.webgl.opengl", 4);
-user_pref("idle.lastDailyNotification", 1335327790);
+user_pref("idle.lastDailyNotification", 1335438053);
 user_pref("intl.charsetmenu.browser.cache", "us-ascii, ISO-8859-1, UTF-8");
 user_pref("network.cookie.prefsMigrated", true);
 user_pref("places.database.lastMaintenance", 1335204678);
-user_pref("places.history.expiration.transient_current_max_pages", 79076);
+user_pref("places.history.expiration.transient_current_max_pages", 74438);
 user_pref("privacy.sanitize.migrateFx3Prefs", true);
 user_pref("security.warn_viewing_mixed", false);
 user_pref("services.sync.clients.lastSync", "0");

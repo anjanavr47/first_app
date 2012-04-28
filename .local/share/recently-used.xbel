@@ -491,4 +491,31 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///tmp/bws8Shell.swf" added="2012-04-28T05:38:31Z" modified="2012-04-28T05:38:31Z" visited="2012-04-28T05:38:31Z">
+    <title>bws8Shell.swf</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shockwave-flash"/>
+        <bookmark:groups>
+          <bookmark:group>Totem</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Totem Movie Player" exec="&apos;totem %u&apos;" modified="2012-04-28T05:38:31Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anjana/README.md" added="2012-04-28T07:11:49Z" modified="2012-04-28T07:12:25Z" visited="2012-04-28T07:11:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-genesis-rom"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2012-04-28T07:12:25Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

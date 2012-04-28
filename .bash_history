@@ -420,3 +420,21 @@ sudo apt-get install heimdal-clients
 rvm use 1.9.2
 rvm gemset use rails3011
 rails server
+rvm use 1.9.2
+rvm gemset use rails3011
+git config --global user.name "anjanavr47"
+git config --global user.email anjanavr47@gmail.com
+git config --global alias.co checkout
+git init
+gedit .gitignore
+git add
+git add .
+git status
+git commit -m "Initial commit"
+git log
+git remote add origin git@github.com:anjanavr47/first_app.git
+git push -u origin master
+rvm use 1.9.2
+rvm gemset use rails3011
+git remote add origin git@github.com:anjanavr47/first_app.git
+git push -u origin master

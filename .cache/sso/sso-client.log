@@ -52,3 +52,24 @@
 2012-04-26 15:23:16,960:960.426092148 - ubuntu_sso.credentials - INFO - find_credentials: self.app_name "Ubuntu One", result is {}? True
 2012-04-26 15:23:16,960:960.675001144 - ubuntu_sso.main - INFO - CredentialsManagement: emitting CredentialsNotFound with app_name "Ubuntu One".
 2012-04-26 15:23:26,965:965.403079987 - ubuntu_sso.main - INFO - Shutting down, calling <built-in function main_quit>.
+2012-04-27 11:03:17,694:694.010019302 - ubuntu-sso-login - INFO - Starting Ubuntu SSO login manager for bus 'com.ubuntu.sso'.
+2012-04-27 11:03:17,708:708.183050156 - ubuntu_sso.account - INFO - Created a new SSO access layer for service url 'https://login.ubuntu.com/api/1.0'
+2012-04-27 11:03:17,752:752.293109894 - ubuntu_sso.credentials - INFO - find_credentials: self.app_name "Ubuntu One", result is {}? True
+2012-04-27 11:03:17,752:752.547025681 - ubuntu_sso.main - INFO - CredentialsManagement: emitting CredentialsNotFound with app_name "Ubuntu One".
+2012-04-27 11:03:17,752:752.98500061 - ubuntu_sso.credentials - INFO - find_credentials: self.app_name "Ubuntu One", result is {}? True
+2012-04-27 11:03:17,753:753.247022629 - ubuntu_sso.main - INFO - CredentialsManagement: emitting CredentialsNotFound with app_name "Ubuntu One".
+2012-04-27 11:03:27,763:763.747930527 - ubuntu_sso.main - INFO - Shutting down, calling <built-in function main_quit>.
+2012-04-27 13:38:14,754:754.868984222 - ubuntu-sso-login - INFO - Starting Ubuntu SSO login manager for bus 'com.ubuntu.sso'.
+2012-04-27 13:38:14,778:778.028964996 - ubuntu_sso.account - INFO - Created a new SSO access layer for service url 'https://login.ubuntu.com/api/1.0'
+2012-04-27 13:38:14,826:826.901912689 - ubuntu_sso.credentials - INFO - find_credentials: self.app_name "Ubuntu One", result is {}? True
+2012-04-27 13:38:14,827:827.172994614 - ubuntu_sso.main - INFO - CredentialsManagement: emitting CredentialsNotFound with app_name "Ubuntu One".
+2012-04-27 13:38:14,827:827.60310173 - ubuntu_sso.credentials - INFO - find_credentials: self.app_name "Ubuntu One", result is {}? True
+2012-04-27 13:38:14,827:827.857017517 - ubuntu_sso.main - INFO - CredentialsManagement: emitting CredentialsNotFound with app_name "Ubuntu One".
+2012-04-27 13:38:24,835:835.442066193 - ubuntu_sso.main - INFO - Shutting down, calling <built-in function main_quit>.
+2012-04-28 10:39:25,484:484.07292366 - ubuntu-sso-login - INFO - Starting Ubuntu SSO login manager for bus 'com.ubuntu.sso'.
+2012-04-28 10:39:25,496:496.007919312 - ubuntu_sso.account - INFO - Created a new SSO access layer for service url 'https://login.ubuntu.com/api/1.0'
+2012-04-28 10:39:25,557:557.070016861 - ubuntu_sso.credentials - INFO - find_credentials: self.app_name "Ubuntu One", result is {}? True
+2012-04-28 10:39:25,557:557.379961014 - ubuntu_sso.main - INFO - CredentialsManagement: emitting CredentialsNotFound with app_name "Ubuntu One".
+2012-04-28 10:39:25,557:557.869911194 - ubuntu_sso.credentials - INFO - find_credentials: self.app_name "Ubuntu One", result is {}? True
+2012-04-28 10:39:25,558:558.115005493 - ubuntu_sso.main - INFO - CredentialsManagement: emitting CredentialsNotFound with app_name "Ubuntu One".
+2012-04-28 10:39:35,565:565.44303894 - ubuntu_sso.main - INFO - Shutting down, calling <built-in function main_quit>.

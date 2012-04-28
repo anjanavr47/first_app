@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <gconf>
-	<entry name="nautilus-window-scroll-position" mtime="1335431627" type="string">
+	<entry name="nautilus-window-scroll-position" mtime="1335520236" type="string">
 		<stringvalue>file:///home/anjana/Desktop/untitled%20folder</stringvalue>
 	</entry>
-	<entry name="nautilus-icon-view-layout-timestamp" mtime="1335433962" type="string">
-		<stringvalue>1335433962</stringvalue>
+	<entry name="nautilus-icon-view-layout-timestamp" mtime="1335589731" type="string">
+		<stringvalue>1335589731</stringvalue>
 	</entry>
-	<entry name="nautilus-icon-view-keep-aligned" mtime="1335433961" type="string">
+	<entry name="nautilus-icon-view-keep-aligned" mtime="1335589730" type="string">
 		<stringvalue>true</stringvalue>
 	</entry>
 </gconf>

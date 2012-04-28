@@ -1,12 +1,12 @@
 /etc/gdm/Xsession: Beginning session setup...
 Setting IM through im-switch for locale=en_US.
 Start IM through /etc/X11/xinit/xinput.d/all_ALL linked to /etc/X11/xinit/xinput.d/default.
-GNOME_KEYRING_CONTROL=/tmp/keyring-DDEsPG
-SSH_AUTH_SOCK=/tmp/keyring-DDEsPG/ssh
-GNOME_KEYRING_CONTROL=/tmp/keyring-DDEsPG
-SSH_AUTH_SOCK=/tmp/keyring-DDEsPG/ssh
-GNOME_KEYRING_CONTROL=/tmp/keyring-DDEsPG
-SSH_AUTH_SOCK=/tmp/keyring-DDEsPG/ssh
+GNOME_KEYRING_CONTROL=/tmp/keyring-xYZcjX
+SSH_AUTH_SOCK=/tmp/keyring-xYZcjX/ssh
+GNOME_KEYRING_CONTROL=/tmp/keyring-xYZcjX
+SSH_AUTH_SOCK=/tmp/keyring-xYZcjX/ssh
+GNOME_KEYRING_CONTROL=/tmp/keyring-xYZcjX
+SSH_AUTH_SOCK=/tmp/keyring-xYZcjX/ssh
 ** Message: adding killswitch idx 0 state KILLSWITCH_STATE_UNBLOCKED
 ** Message: adding killswitch idx 3 state KILLSWITCH_STATE_UNBLOCKED
 ** Message: killswitch 0 is KILLSWITCH_STATE_UNBLOCKED
@@ -15,299 +15,150 @@ SSH_AUTH_SOCK=/tmp/keyring-DDEsPG/ssh
 ** Message: killswitch 0 is KILLSWITCH_STATE_UNBLOCKED
 ** Message: killswitch 3 is KILLSWITCH_STATE_UNBLOCKED
 ** Message: killswitches state KILLSWITCH_STATE_UNBLOCKED
+** (nm-applet:1522): DEBUG: old state indicates that this was not a disconnect 0
 Initializing nautilus-gdu extension
-** (process:1488): DEBUG: zeitgeist-datahub.vala:174: Inserting 6 events
 
-(nautilus:1486): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
-** (nm-applet:1487): DEBUG: old state indicates that this was not a disconnect 0
-** (nm-applet:1487): DEBUG: old state indicates that this was not a disconnect 0
+(nautilus:1521): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
 
-(nautilus:1486): GdkPixbuf-CRITICAL **: gdk_pixbuf_format_get_name: assertion `format != NULL' failed
+(nautilus:1521): GdkPixbuf-CRITICAL **: gdk_pixbuf_format_get_name: assertion `format != NULL' failed
 Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
 Please ask your system administrator to enable user sharing.
 
-caught exception:  <urlopen error [Errno -2] Name or service not known>
-
-(nautilus:1486): GLib-GObject-CRITICAL **: g_value_get_object: assertion `G_VALUE_HOLDS_OBJECT (value)' failed
-
-(nautilus:1486): GLib-GObject-CRITICAL **: g_value_get_object: assertion `G_VALUE_HOLDS_OBJECT (value)' failed
-
-(nautilus:1486): GLib-GObject-CRITICAL **: g_value_get_object: assertion `G_VALUE_HOLDS_OBJECT (value)' failed
-** (process:1488): DEBUG: desktop-launch-listener.vala:118: ran with uri: file:///home/anjana/Desktop/DSCF2669.JPG
-
-(eog:1774): GLib-GObject-CRITICAL **: g_value_get_object: assertion `G_VALUE_HOLDS_OBJECT (value)' failed
-
-(eog:1774): GLib-GObject-CRITICAL **: g_value_get_object: assertion `G_VALUE_HOLDS_OBJECT (value)' failed
-** (process:1488): DEBUG: zeitgeist-datahub.vala:174: Inserting 3 events
-
-(eog:1774): GLib-GObject-CRITICAL **: g_value_get_object: assertion `G_VALUE_HOLDS_OBJECT (value)' failed
-
-(eog:1774): GLib-GObject-CRITICAL **: g_value_get_object: assertion `G_VALUE_HOLDS_OBJECT (value)' failed
-
-(eog:1774): GLib-GObject-CRITICAL **: g_value_get_object: assertion `G_VALUE_HOLDS_OBJECT (value)' failed
-** (process:1488): DEBUG: zeitgeist-datahub.vala:174: Inserting 3 events
-
-(eog:1774): GLib-GObject-CRITICAL **: g_value_get_object: assertion `G_VALUE_HOLDS_OBJECT (value)' failed
-
-(eog:1774): GLib-GObject-CRITICAL **: g_value_get_object: assertion `G_VALUE_HOLDS_OBJECT (value)' failed
-
-(eog:1774): GLib-GObject-CRITICAL **: g_value_get_object: assertion `G_VALUE_HOLDS_OBJECT (value)' failed
-** (process:1488): DEBUG: zeitgeist-datahub.vala:174: Inserting 1 events
-
-(nautilus:1486): GLib-GObject-CRITICAL **: g_value_get_object: assertion `G_VALUE_HOLDS_OBJECT (value)' failed
-** (nm-applet:1487): DEBUG: old state indicates that this was not a disconnect 2
-** (nm-applet:1487): DEBUG: foo_client_state_changed_cb
-** (nm-applet:1487): DEBUG: foo_client_state_changed_cb
 failed to create drawable
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc7233c0200 stream=0x7fc731a99000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc7225e9f00 stream=0x7fc7253e3000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc7225a7e00 stream=0x7fc7253e3000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc7225e8300 stream=0x7fc7253e3000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc7225e8300 stream=0x7fc7253e3000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc7225e9f00 stream=0x7fc7253e3000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc722367e00 stream=0x7fc7253e3000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc722367900 stream=0x7fc7253e3000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc7225a6200 stream=0x7fc7253e3000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc7225a6300 stream=0x7fc7253e3000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc726c23400 stream=0x7fc726cdd000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc722369e00 stream=0x7fc7245c0000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc71f2a6500 stream=0x7fc7245c0000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc722368300 stream=0x7fc7245c0000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc722369000 stream=0x7fc7245c0000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc722369000 stream=0x7fc723c7a000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc722369e00 stream=0x7fc723c7a000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc7225a5e00 stream=0x7fc723c7a000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc7225a5e00 stream=0x7fc723c7a000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc7225a6200 stream=0x7fc723c7a000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc7268c5100 stream=0x7fc725a9d000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc722738f00 stream=0x7fc725a9d000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc722738f00 stream=0x7fc725a9d000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc72315bc00 stream=0x7fc72cb72000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc722ae4c00 stream=0x7fc72cb72000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc72315bc00 stream=0x7fc72742e000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc72315c100 stream=0x7fc7231db000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc72315c100 stream=0x7fc7231db000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc72315c500 stream=0x7fc71f793000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc727ddd600 stream=0x7fc7231db000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc7268c4e00 stream=0x7fc71f793000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc7268c4d00 stream=0x7fc71f793000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc7268c4e00 stream=0x7fc71f793000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc724dbbe00 stream=0x7fc71e643000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc724dbba00 stream=0x7fc71e643000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc724dbbe00 stream=0x7fc71e643000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc71ec1fd00 stream=0x7fc71e643000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc71ec1fe00 stream=0x7fc71e643000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc71ec1ff00 stream=0x7fc71e643000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc719294d00 stream=0x7fc7194aa000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc71f2a6700 stream=0x7fc71e643000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc71f2a6700 stream=0x7fc7194aa000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc7289a4400 stream=0x7fc722987000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc71ead1500 stream=0x7fc722987000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc7289a4b00 stream=0x7fc71828d000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc7182c0200 stream=0x7fc71828d000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc7182c0300 stream=0x7fc71828d000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc7182c0400 stream=0x7fc71828d000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc715891e00 stream=0x7fc71828d000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc713bfe200 stream=0x7fc71828d000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc713bfe200 stream=0x7fc7188e0000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc713bfe300 stream=0x7fc7188e0000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc713bfe700 stream=0x7fc7188e0000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-Window manager warning: Received a _NET_WM_MOVERESIZE message for 0x3a000e9 (Gmail - In); these messages lack timestamps and therefore suck.
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc713bfe700 stream=0x7fc7188e0000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc713bfe900 stream=0x7fc7188e0000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc713bfea00 stream=0x7fc7131e8000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc713577700 stream=0x7fc7131e8000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc713577100 stream=0x7fc7131e8000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc713577700 stream=0x7fc7131e8000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc713577a00 stream=0x7fc7131e8000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc713575000 stream=0x7fc7131e8000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc713574d00 stream=0x7fc7131e8000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc713575000 stream=0x7fc7131e8000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc713575300 stream=0x7fc7131e8000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc713575400 stream=0x7fc7131e8000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc713575500 stream=0x7fc711802000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc713575900 stream=0x7fc711802000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc713576500 stream=0x7fc711802000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc713576a00 stream=0x7fc711802000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+failed to create drawable
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f881a324200 stream=0x7f880dd22000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f881b492c00 stream=0x7f881472e000 src=http://o-o.preferred.asianet-cok1.v18.lscache8.c.youtube.com/videoplayback?upn=VbC24gA5WWQ&sparams=cp%2Cid%2Cip%2Cipbits%2Citag%2Cratebypass%2Csource%2Cupn%2Cexpire&fexp=900304%2C913100%2C910206%2C914102%2C907217&itag=43&ip=116.0.0.0&signature=C58B7337CE5ED29BCE3F9B95F143D3E40BD4D7CE.D3564EB24AD8B80B84F3998F4E608D0F2FBC92E2&sver=3&ratebypass=yes&source=youtube&expire=1335539528&key=yt1&ipbits=8&cp=U0hSSlVOV19HUkNOMl9NSEFGOnNVWFVtN0JBM05D&id=568aa8cb8ca20b17
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f881a324200 stream=0x7f88111de000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f880603d000 stream=0x7f88111de000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f88167abe00 stream=0x7f88111de000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f88180e4200 stream=0x7f8816b3c000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f88180e2e00 stream=0x7f8816b3c000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f880e3ecb00 stream=0x7f880e702000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f880e3ea100 stream=0x7f880e702000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f880e3ecb00 stream=0x7f880e702000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f880e3ed400 stream=0x7f880e702000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f881b1adb00 stream=0x7f8815116000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f881b490c00 stream=0x7f8806c47000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f881b556900 stream=0x7f8817de5000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f880f561e00 stream=0x7f8817de5000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8807456b00 stream=0x7f880600a000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8811931800 stream=0x7f880e702000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8807456700 stream=0x7f880e702000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8806c3ae00 stream=0x7f880e702000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8806c46b00 stream=0x7f88101e9000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8807454800 stream=0x7f880e702000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f880603c500 stream=0x7f880e702000 src=http://static.ak.fbcdn.net/sound/pling.ogg
 
-(nautilus:1486): GdkPixbuf-CRITICAL **: gdk_pixbuf_format_get_name: assertion `format != NULL' failed
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc713576e00 stream=0x7fc711802000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc713577100 stream=0x7fc711802000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc713577100 stream=0x7fc711802000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc713576100 stream=0x7fc711802000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc713577100 stream=0x7fc711802000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc713577200 stream=0x7fc711802000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc713577500 stream=0x7fc711802000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc713577a00 stream=0x7fc711802000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc713577b00 stream=0x7fc711802000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc713513800 stream=0x7fc711802000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc713577200 stream=0x7fc711802000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc713577500 stream=0x7fc711802000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc713574500 stream=0x7fc711802000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc713574a00 stream=0x7fc711802000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc713576100 stream=0x7fc711802000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc713577500 stream=0x7fc711802000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc7190ce900 stream=0x7fc718dd0000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc713d89100 stream=0x7fc73574d000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc712903a00 stream=0x7fc73574d000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc712903500 stream=0x7fc73574d000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc712903600 stream=0x7fc73574d000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc70dc1cb00 stream=0x7fc70f402000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc713bfc600 stream=0x7fc70e4e4000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc70f960500 stream=0x7fc70e4e4000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc712905d00 stream=0x7fc70f942000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc70e853400 stream=0x7fc70f445000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc70e853300 stream=0x7fc70f22e000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc70e853400 stream=0x7fc70f22e000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+(nautilus:1521): GdkPixbuf-CRITICAL **: gdk_pixbuf_format_get_name: assertion `format != NULL' failed
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f880603c800 stream=0x7f880e702000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f88167cf500 stream=0x7f882415e000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f880e3fa500 stream=0x7f88101e9000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f880e3fa300 stream=0x7f88101e9000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f880eff9e00 stream=0x7f8810dcd000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8807977200 stream=0x7f88101e9000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8807976f00 stream=0x7f88101e9000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8807977200 stream=0x7f88101e9000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8807977500 stream=0x7f88101e9000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8807977600 stream=0x7f88101e9000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8807977800 stream=0x7f88101e9000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8807977b00 stream=0x7f88101e9000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8807977c00 stream=0x7f88101e9000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8807977d00 stream=0x7f88101e9000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8817703000 stream=0x7f8810dcd000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8806c39800 stream=0x7f8810dcd000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8806c39500 stream=0x7f8810dcd000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8806c39800 stream=0x7f8810dcd000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8806c39d00 stream=0x7f8810dcd000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8806c39e00 stream=0x7f8810dcd000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8806c3a100 stream=0x7f8810dcd000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8806c3a200 stream=0x7f8810dcd000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8806c3a300 stream=0x7f8810dcd000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8806c3a300 stream=0x7f8810dcd000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8806c3a600 stream=0x7f880e702000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8806c3a600 stream=0x7f88060c8000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8806c3a900 stream=0x7f88060c8000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8806c3ac00 stream=0x7f88060c8000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f88064bcc00 stream=0x7f88060c8000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f88064bc500 stream=0x7f88060c8000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f88064bc500 stream=0x7f88060c8000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f88064bcc00 stream=0x7f88060c8000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f88068ef600 stream=0x7f88060c8000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f88068efa00 stream=0x7f88060c8000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f88068f0000 stream=0x7f88060c8000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f88068f0e00 stream=0x7f88060c8000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f88068f1500 stream=0x7f88060c8000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f88068f1c00 stream=0x7f88060c8000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8806c39500 stream=0x7f88060c8000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8806c39500 stream=0x7f88060c8000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8806c39d00 stream=0x7f88060c8000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8806c3a300 stream=0x7f88060c8000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8806c3a500 stream=0x7f88060c8000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8806c3ae00 stream=0x7f88060c8000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8806c3b100 stream=0x7f88060c8000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8806c45400 stream=0x7f8813aad000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8806c44b00 stream=0x7f88060c8000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8806c45000 stream=0x7f88060c8000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8806c45300 stream=0x7f88060c8000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8806c45400 stream=0x7f88060c8000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8806c45c00 stream=0x7f88060c8000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8806c46200 stream=0x7f88060c8000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8806c46500 stream=0x7f88060c8000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8806c46500 stream=0x7f88060c8000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8806c46700 stream=0x7f88060c8000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f88138ec400 stream=0x7f880eb40000 src=http://static.ak.fbcdn.net/sound/pling.ogg
 
-(nautilus:1486): GdkPixbuf-CRITICAL **: gdk_pixbuf_format_get_name: assertion `format != NULL' failed
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc70e853500 stream=0x7fc70f22e000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc70e853600 stream=0x7fc70f22e000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc70e853600 stream=0x7fc70f22e000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-** (process:1488): DEBUG: zeitgeist-datahub.vala:174: Inserting 1 events
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc70e853700 stream=0x7fc70f22e000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc70e853800 stream=0x7fc70f22e000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc70e853900 stream=0x7fc70f22e000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc70e853a00 stream=0x7fc70f22e000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc70e853b00 stream=0x7fc70f22e000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc70e853b00 stream=0x7fc70f22e000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc70e853c00 stream=0x7fc70f22e000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc70e853d00 stream=0x7fc70f22e000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc70e853e00 stream=0x7fc70f22e000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc70e854700 stream=0x7fc70f22e000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc70e854500 stream=0x7fc70f22e000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc70e854700 stream=0x7fc70f22e000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc70dcc6000 stream=0x7fc70f22e000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc70dcc5700 stream=0x7fc70f22e000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-** (process:1488): DEBUG: zeitgeist-datahub.vala:174: Inserting 3 events
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc70cac2300 stream=0x7fc70f22e000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc70dcc5700 stream=0x7fc70e4e4000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc70dcc6000 stream=0x7fc70e4e4000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc70dcc6100 stream=0x7fc70e4e4000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc70dcc6300 stream=0x7fc70e4e4000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc70dcc6400 stream=0x7fc70d0d0000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc70dcc6500 stream=0x7fc70d0d0000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc70dcc6600 stream=0x7fc70d0d0000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc70dcc6800 stream=0x7fc70d0d0000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc70dcc6800 stream=0x7fc70d0d0000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc70dcc6b00 stream=0x7fc70d0d0000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc71732b000 stream=0x7fc70e89d000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-** (process:1488): DEBUG: desktop-launch-listener.vala:118: ran with uri: trash:
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc7157f1300 stream=0x7fc70e89d000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc717328a00 stream=0x7fc70e89d000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc712905700 stream=0x7fc70e4e4000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc711860d00 stream=0x7fc70e4e4000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc71185fd00 stream=0x7fc70e4e4000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc711860d00 stream=0x7fc70e4e4000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc711860f00 stream=0x7fc70e4e4000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc70de29d00 stream=0x7fc70e4e4000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc70dcc7d00 stream=0x7fc70e4e4000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc70de29d00 stream=0x7fc70e4e4000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc70de2a100 stream=0x7fc70e4e4000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc70de2a600 stream=0x7fc70e4e4000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc70de2a800 stream=0x7fc70e4e4000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+(nautilus:1521): GdkPixbuf-CRITICAL **: gdk_pixbuf_format_get_name: assertion `format != NULL' failed
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8806c46b00 stream=0x7f8815542000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f880f752200 stream=0x7f8816bf3000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f880f751e00 stream=0x7f8813a7f000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f880f752000 stream=0x7f8812e6b000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f880f752200 stream=0x7f8812e6b000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f880f752300 stream=0x7f8812e6b000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f880f752800 stream=0x7f8812e6b000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f880f752800 stream=0x7f8812e6b000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f880f752900 stream=0x7f8812e6b000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8807448200 stream=0x7f8812e6b000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8807447d00 stream=0x7f880eda1000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8807448200 stream=0x7f880eda1000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8807448500 stream=0x7f880eda1000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8807448600 stream=0x7f880eda1000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8807448700 stream=0x7f880eda1000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8807448800 stream=0x7f880eda1000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8807448900 stream=0x7f880eda1000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8807448a00 stream=0x7f880eda1000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f88080f3600 stream=0x7f8812ea8000 src=http://o-o.preferred.asianet-cok1.v4.lscache5.c.youtube.com/videoplayback?upn=YIErsL8UTz0&sparams=cp%2Cid%2Cip%2Cipbits%2Citag%2Cratebypass%2Csource%2Cupn%2Cexpire&fexp=900304%2C913100%2C910206%2C914102%2C907217&itag=43&ip=116.0.0.0&signature=AEBBE1EED87A5BEE72E0FEE4BD3821D73091E2A2.620AFCF31EBE96B2B0D91C9BF5E8688B0EE2B37D&sver=3&ratebypass=yes&source=youtube&expire=1335542699&key=yt1&ipbits=8&cp=U0hSSlVPUF9OU0NOMl9NSVRHOnRVWFVtN0NUNFVE&id=bfed52cb8fe6b164
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8807448c00 stream=0x7f88079b1000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f880eff9600 stream=0x7f8817d62000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f880eff8900 stream=0x7f8817d62000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f880eff9600 stream=0x7f8813abd000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f880603ed00 stream=0x7f8813abd000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f880603f600 stream=0x7f88079b1000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+** (process:1523): DEBUG: zeitgeist-datahub.vala:174: Inserting 1 events
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f88064bb300 stream=0x7f88079b1000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8814556f00 stream=0x7f880eda1000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f88080f0700 stream=0x7f880eda1000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f88080f0500 stream=0x7f880eda1000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f88080f0700 stream=0x7f880eda1000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f88080f0800 stream=0x7f880eda1000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f88080f0800 stream=0x7f880eda1000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f88080f0900 stream=0x7f880eda1000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8815f05300 stream=0x7f8815cdf000 src=http://static.ak.fbcdn.net/sound/pling.ogg
 
-(nautilus:1486): GdkPixbuf-CRITICAL **: gdk_pixbuf_format_get_name: assertion `format != NULL' failed
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc70de2ad00 stream=0x7fc70e4e4000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc719294700 stream=0x7fc7251d3000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc70de2d600 stream=0x7fc7251d3000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc723d9fb00 stream=0x7fc72548b000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc723e33b00 stream=0x7fc7251d3000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc71947af00 stream=0x7fc7251d3000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc71947aa00 stream=0x7fc7251d3000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc71947af00 stream=0x7fc70e4e4000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc71e9a0700 stream=0x7fc70e4e4000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc7122afd00 stream=0x7fc70e4e4000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc7122b0600 stream=0x7fc70e4e4000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc71271b400 stream=0x7fc70e4e4000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc71271b500 stream=0x7fc70e4e4000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc71271b800 stream=0x7fc70e4e4000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc71271ba00 stream=0x7fc70e4e4000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc71271bd00 stream=0x7fc70e4e4000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc71271c400 stream=0x7fc70e4e4000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc71271c600 stream=0x7fc70e2b2000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc71271c900 stream=0x7fc70e2b2000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc71271ca00 stream=0x7fc70e2b2000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc71271dc00 stream=0x7fc70e2b2000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc7127f3500 stream=0x7fc70e2b2000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc7127f4000 stream=0x7fc70e2b2000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc7127f4100 stream=0x7fc70e2b2000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc713d8b800 stream=0x7fc70e2b2000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc713d8bb00 stream=0x7fc70e2b2000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc713d8bb00 stream=0x7fc70e2b2000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc713d8bd00 stream=0x7fc70e2b2000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc71271dc00 stream=0x7fc70e2b2000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc71271c900 stream=0x7fc70e2b2000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc71271dc00 stream=0x7fc70e2b2000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc7127f4300 stream=0x7fc70e2b2000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc7127f5600 stream=0x7fc70e2b2000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc7127f5c00 stream=0x7fc70e2b2000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc7127f6000 stream=0x7fc70e2b2000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-Window manager warning: Received a _NET_WM_MOVERESIZE message for 0x3c00024 (anjana@vel); these messages lack timestamps and therefore suck.
-Window manager warning: Received a _NET_WM_MOVERESIZE message for 0x3c00024 (anjana@vel); these messages lack timestamps and therefore suck.
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc7127f6800 stream=0x7fc70e2b2000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-Window manager warning: Received a _NET_WM_MOVERESIZE message for 0x3c00024 (anjana@vel); these messages lack timestamps and therefore suck.
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc711860f00 stream=0x7fc70e2b2000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc70ff2f500 stream=0x7fc70e2b2000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc711860f00 stream=0x7fc70e2b2000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc711862300 stream=0x7fc70e2b2000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc711dc1a00 stream=0x7fc70e2b2000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc711dc1b00 stream=0x7fc70e2b2000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc711dc2100 stream=0x7fc70e2b2000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc711dc2300 stream=0x7fc70e2b2000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc711dc2a00 stream=0x7fc70e2b2000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+(nautilus:1521): GdkPixbuf-CRITICAL **: gdk_pixbuf_format_get_name: assertion `format != NULL' failed
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f88145db800 stream=0x7f8807483000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8814555600 stream=0x7f8807483000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8813d72200 stream=0x7f8807483000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8813d71700 stream=0x7f8807483000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8813d72200 stream=0x7f8807483000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8813d72400 stream=0x7f8807483000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8813d72500 stream=0x7f8807483000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8813d72600 stream=0x7f8807483000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f8813d72700 stream=0x7f8807483000 src=http://static.ak.fbcdn.net/sound/pling.ogg
+*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7f88111c8e00 stream=0x7f8807483000 src=http://static.ak.fbcdn.net/sound/pling.ogg
 
-(nautilus:1486): GdkPixbuf-CRITICAL **: gdk_pixbuf_format_get_name: assertion `format != NULL' failed
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc711dc3a00 stream=0x7fc70e2b2000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc7122b1100 stream=0x7fc70e2b2000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc7122b1600 stream=0x7fc70e2b2000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc71271b800 stream=0x7fc70e2b2000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc71271ba00 stream=0x7fc70e2b2000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc7122b1d00 stream=0x7fc70e2b2000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc71271ba00 stream=0x7fc70e2b2000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc71271c600 stream=0x7fc70e2b2000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc71271c600 stream=0x7fc70e2b2000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc71271c900 stream=0x7fc70e2b2000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc728abea00 stream=0x7fc72330e000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc728abe300 stream=0x7fc72330e000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc727ddb700 stream=0x7fc72201f000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc712914900 stream=0x7fc72201f000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc712914100 stream=0x7fc72201f000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc712914900 stream=0x7fc72201f000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc712914b00 stream=0x7fc72201f000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc712915000 stream=0x7fc72201f000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc70ff2f500 stream=0x7fc72201f000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc70e468b00 stream=0x7fc72201f000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc70e468b00 stream=0x7fc72201f000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc70ff2f500 stream=0x7fc72201f000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc711dc2300 stream=0x7fc72201f000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc71293e500 stream=0x7fc727686000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc712916d00 stream=0x7fc727686000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc712917d00 stream=0x7fc727686000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc71293e500 stream=0x7fc727686000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc722fd9800 stream=0x7fc726de6000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc722fd9300 stream=0x7fc726de6000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc722fd9400 stream=0x7fc726de6000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc71271c000 stream=0x7fc726de6000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc712904b00 stream=0x7fc726de6000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc7127f6800 stream=0x7fc726de6000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc712904b00 stream=0x7fc726de6000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc712905000 stream=0x7fc726de6000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-*** nsHTMLElement::FinishDecoderSetup() mDecoder=0x7fc72611b300 stream=0x7fc727686000 src=http://static.ak.fbcdn.net/sound/pling.ogg
-
-(gnome-power-manager:1496): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+(gnome-power-manager:1534): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
 Window manager warning: CurrentTime used to choose focus window; focus window may not be correct.
 Window manager warning: Got a request to focus the no_focus_window with a timestamp of 0.  This shouldn't happen!
-bluetooth-applet: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
-gdu-notification-daemon: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
-evolution-alarm-notify: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
-gnome-screensaver: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
-gnome-settings-daemon: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
-update-notifier: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
-nm-applet: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
-applet.py: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
-XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
-      after 46289 requests (46289 known processed) with 0 events remaining.
 Shutting down nautilus-gdu extension
 
 --- Hash table keys for warning below:
@@ -315,10 +166,20 @@ Shutting down nautilus-gdu extension
 --> anjana
 --> inode/directory
 
-(nautilus:1486): Eel-WARNING **: "unique eel_ref_str" hash table still has 3 elements at quit time (keys above)
+(nautilus:1521): Eel-WARNING **: "unique eel_ref_str" hash table still has 3 elements at quit time (keys above)
 
-(nautilus:1486): Eel-WARNING **: "nautilus-directory.c: directories" hash table still has 3 elements at quit time
-** (process:1488): DEBUG: zeitgeist-datahub.vala:58: Zeitgeist-daemon disappeared from the bus, exitting...
+(nautilus:1521): Eel-WARNING **: "nautilus-directory.c: directories" hash table still has 3 elements at quit time
+gnome-settings-daemon: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+nm-applet: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+gnome-screensaver: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+evolution-alarm-notify: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+gdu-notification-daemon: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+update-notifier: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+applet.py: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+bluetooth-applet: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 33961 requests (33961 known processed) with 0 events remaining.
+** (process:1523): DEBUG: zeitgeist-datahub.vala:58: Zeitgeist-daemon disappeared from the bus, exitting...
 
-** (process:1488): WARNING **: zeitgeist-datahub.vala:218: Unable to get name "org.gnome.zeitgeist.datahub" on the bus!
+** (process:1523): WARNING **: zeitgeist-datahub.vala:218: Unable to get name "org.gnome.zeitgeist.datahub" on the bus!
 g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.

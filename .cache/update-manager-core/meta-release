@@ -1,96 +1,171 @@
-<!-- saved from url=(0022)http://internet.e-mail -->
-<!-- saved from url=(0022)http://internet.e-mail -->
-<!-- saved from url=(0022)http://internet.e-mail -->
-<!-- saved from url=(0022)http://internet.e-mail -->
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Dist: warty
+Name: Warty Warthog
+Version: 04.10
+Date: Wed, 20 Oct 2004 07:28:17 UTC
+Supported: 0
+Description: This is the warty warthog release
+Release-File: http://archive.ubuntu.com/ubuntu/dists/warty/Release
 
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta name="generator" content="HTML Tidy for Linux/x86 (vers 1st July 2004), see www.w3.org" />
- <meta http-equiv="Content-Type" content="text/html;" />
- <meta http-equiv="pragma" content="no-cache" />
- <meta http-equiv="expires" content="-1" />
- <meta http-equiv="Content-Type" content="text/html; charset=us-ascii" />
+Dist: hoary
+Name: Hoary  Hedgehog
+Version: 05.04
+Date: Fri, 08 Apr 2005 08:18:19 UTC
+Supported: 0
+Description: This is the Hoary Hedgehog release
+Release-File: http://archive.ubuntu.com/ubuntu/dists/hoary/Release
 
-<link rel="shortcut icon" href="images/asianet.ico" type="image/x-icon">
-<title>Welcome to India's  Leading Internet Service Provider Asianet</title>
+Dist: breezy
+Name: Breezy Badger
+Version: 05.10
+Date: Thu, 13 Oct 2005 19:34:42 UTC
+Supported: 0
+Description: This is the Breezy Badger release
+Release-File: http://archive.ubuntu.com/ubuntu/dists/breezy/Release
 
-<style type="text/css">
-body{margin:0 auto;padding:0px;background-color:#006B8F;}
-.total{margin: 0 auto;padding: 0px;width: 100%;height: 680px;background-color:#FFFFFF;}
-.top{padding: 1% 0% 0% 2%;float: left;width: 98%;margin-bottom: 10px; background-image: url('https://images.adlkerala.com/images/back1.jpg');
-  background-repeat: repeat-x;border-bottom: solid 1px #1371D1;}
- .middle{float:left;width:100%; height: 438px;}
- .content{
-        width: 58%;
-        float: left;
-        padding: 7% 0% 0% 7%;
-        font-family: Calibri;
-        font-size: 30px;
-        color: #333333;
-        text-align: center;
-        font-weight: bold;
-    }
- .login{font-size:13px;border: 1px #C0C0C0 solid; float:left; list-style-type:none; margin:4% 0px 0px 4%; padding:2% 0px 2% 2%; width: 23%;  background-color: #E6E6E6; font-family: Arial, Helvetica, sans-serif;color:#333333;}
- .buttonstyle{width: 81px; background-color: #333333; color: #FFFFFF; height: 30px;}
- .bottom{float: left;width: 100%;height: 98px;border-top: solid 1px #1371D1;background-image:url('https://images.adlkerala.com/images/back2.jpg');}
- a{text-decoration:none;color:#333333;}
- a:hover{text-decoration:underline;}
-.style3 {
-	font-size: 24px;
-	color: #00CCFF;
-}
-</style>
+Dist: dapper
+Name: Dapper Drake
+Version: 6.06 LTS
+Date: Thu, 01 Jun 2006 9:00:00 UTC
+Supported: 0
+Description: This is the Dapper Drake release
+Release-File: http://archive.ubuntu.com/ubuntu/dists/dapper/Release
+ReleaseNotes: http://changelogs.ubuntu.com/EOLReleaseAnnouncement
+UpgradeTool: http://archive.ubuntu.com/ubuntu/dists/dapper/main/dist-upgrader-all/current/dapper.tar.gz
+UpgradeToolSignature: http://archive.ubuntu.com/ubuntu/dists/dapper/main/dist-upgrader-all/current/dapper.tar.gz.gpg
 
-</head>
-<body >
-<form method="post" action="https://mwcp-tvm-04.adlkerala.com:8001/">
+Dist: edgy 
+Name: Edgy Eft
+Version: 6.10
+Date: Thu, 26 Oct 2006 12:00:00 UTC
+Supported: 0
+Description: This is the Edgy Eft release
+Release-File: http://archive.ubuntu.com/ubuntu/dists/edgy/Release
+ReleaseNotes: http://changelogs.ubuntu.com/EOLReleaseAnnouncement
+UpgradeTool: http://archive.ubuntu.com/ubuntu/dists/edgy-updates/main/dist-upgrader-all/current/edgy.tar.gz
+UpgradeToolSignature: http://archive.ubuntu.com/ubuntu/dists/edgy-updates/main/dist-upgrader-all/current/edgy.tar.gz.gpg
 
-	<input name="redirurl" type="hidden" value="$PORTAL_REDIRURL$">
+Dist: feisty
+Name: Feisty Fawn
+Version: 7.04
+Date: Thu, 19 Apr 2007 13:00:00 +0200
+Supported: 0
+Description: This is the 7.04 release
+Release-File: http://old-releases.ubuntu.com/ubuntu/dists/feisty/Release
+ReleaseNotes: http://changelogs.ubuntu.com/EOLReleaseAnnouncement
+UpgradeTool: http://old-releases.ubuntu.com/ubuntu/dists/feisty-proposed/main/dist-upgrader-all/current/feisty.tar.gz
+UpgradeToolSignature: http://old-releases.ubuntu.com/ubuntu/dists/feisty-proposed/main/dist-upgrader-all/current/feisty.tar.gz.gpg
 
-	
-	
-	
-<div class="total">
-<div class="top">
+Dist: gutsy
+Name: Gutsy Gibbon
+Version: 7.10
+Date: Thu, 18 Oct 2007 12:00:00 UTC
+Supported: 0
+Description: This is the 7.10 release
+Release-File: http://archive.ubuntu.com/ubuntu/dists/gutsy/Release
+ReleaseNotes: http://changelogs.ubuntu.com/EOLReleaseAnnouncement
+UpgradeTool: http://archive.ubuntu.com/ubuntu/dists/gutsy/main/dist-upgrader-all/current/gutsy.tar.gz
+UpgradeToolSignature: http://archive.ubuntu.com/ubuntu/dists/gutsy/main/dist-upgrader-all/current/gutsy.tar.gz.gpg
 
-<img src="https://images.adlkerala.com/images/adl.png" style="float:left;" />
-</div>
-<div class="middle">
+Dist: hardy 
+Name: Hardy Heron
+Version: 8.04 LTS
+Date: Thu, 24 Apr 2008 12:00:00 UTC
+Supported: 1
+Description: This is the 8.04 LTS release
+Release-File: http://archive.ubuntu.com/ubuntu/dists/hardy/Release
+ReleaseNotes: http://archive.ubuntu.com/ubuntu/dists/hardy-proposed/main/dist-upgrader-all/0.87.30/ReleaseAnnouncement
+UpgradeTool: http://archive.ubuntu.com/ubuntu/dists/hardy-proposed/main/dist-upgrader-all/0.87.30/hardy.tar.gz
+UpgradeToolSignature: http://archive.ubuntu.com/ubuntu/dists/hardy-proposed/main/dist-upgrader-all/0.87.30/hardy.tar.gz.gpg
 
-  <ul class="login">
-  <li style="height:41px; font-size: 20px; font-weight: bold;">Login</li>
-<li style="height: 20px;">username</li>
-<li style="height: 42px"><input type='text' name='auth_user' /></li>
-<li style="height: 18px">Password</li>
-<li style="height: 52px"><input type='password' name='auth_pass' /></li>
-<li style="height: 52px"><input type='submit' name='accept' value="Login &gt;&gt;" 
-        class="buttonstyle" />
-</li>
+Dist: intrepid
+Name: Intrepid Ibex
+Version: 8.10
+Date: Thu, 30 Oct 2008 12:00:00 UTC
+Supported: 0
+Description: This is the 8.10 release
+Release-File: http://archive.ubuntu.com/ubuntu/dists/intrepid/Release
+ReleaseNotes: http://changelogs.ubuntu.com/EOLReleaseAnnouncement
+UpgradeTool: http://archive.ubuntu.com/ubuntu/dists/intrepid-proposed/main/dist-upgrader-all/0.93.34/intrepid.tar.gz
+UpgradeToolSignature: http://archive.ubuntu.com/ubuntu/dists/intrepid-proposed/main/dist-upgrader-all/0.93.34/intrepid.tar.gz.gpg
 
-<li><a href="https://myaccount.adlkerala.com/login.php" target="_blank">My Account</a>&nbsp;&nbsp;&nbsp;<a href="http://www.asianetdataline.com/contact.aspx" target="_blank"> Customer Care</a></li>
+Dist: jaunty
+Name: Jaunty Jackalope
+Version: 9.04
+Date: Thu, 23 Apr 2009 12:00:00 UTC
+Supported: 0
+Description: This is the 9.04 release
+Release-File: http://archive.ubuntu.com/ubuntu/dists/jaunty/Release
+ReleaseNotes: http://changelogs.ubuntu.com/EOLReleaseAnnouncement
+UpgradeTool: http://archive.ubuntu.com/ubuntu/dists/jaunty-proposed/main/dist-upgrader-all/0.111.8/jaunty.tar.gz
+UpgradeToolSignature: http://archive.ubuntu.com/ubuntu/dists/jaunty-proposed/main/dist-upgrader-all/0.111.8/jaunty.tar.gz.gpg
 
-  </ul>
-  <p class="content"><!--Thank you for making us<br />
-India's  Leading Internet Service Provider<br />-->
-<span style="color:#FF0000;font-size:14px;">
-</span> <span style="color:#FF0000;font-size:14px;">For customers coming under Attingal and Varkala Center will experience service interruption from 23/04/2012  
-for one week due to shifting of office .
-Our New Office Address: USHUS, Opp:Govt ITI, N.H Road,  
-Attingal.</span><br />
-<span class="style3">Thank you for making us
-India's Leading Internet Service Provider</span><br />
+Dist: karmic
+Name: Karmic Koala
+Version: 9.10
+Date: Thu, 29 Oct 2009 12:00:00 UTC
+Supported: 0
+Description: This is the 9.10 release
+Release-File: http://archive.ubuntu.com/ubuntu/dists/karmic/Release
+ReleaseNotes: http://changelogs.ubuntu.com/EOLReleaseAnnouncement
+UpgradeTool: http://archive.ubuntu.com/ubuntu/dists/karmic-proposed/main/dist-upgrader-all/0.126.9/karmic.tar.gz
+UpgradeToolSignature: http://archive.ubuntu.com/ubuntu/dists/karmic-proposed/main/dist-upgrader-all/0.126.9/karmic.tar.gz.gpg
 
-<a href="http://www.asianetdigital.co.in/combo_offer.aspx" target="_blank">
-      <img border="0" src="https://images.adlkerala.com/images/com_offer.jpg" 
-          style=" height: 130px; width: 60%;"/></a></p>
-        
-</div>
-<div class="bottom">
+Dist: lucid
+Name: Lucid Lynx
+Version: 10.04.3 LTS
+Date: Thu, 29 Apr 2010 12:00:00 UTC
+Supported: 1
+Description: This is the 10.04.3 LTS release
+Release-File: http://archive.ubuntu.com/ubuntu/dists/lucid/Release
+ReleaseNotes: http://archive.ubuntu.com/ubuntu/dists/lucid-updates/main/dist-upgrader-all/current/ReleaseAnnouncement
+ReleaseNotesHtml: http://archive.ubuntu.com/ubuntu/dists/lucid-updates/main/dist-upgrader-all/current/ReleaseAnnouncement
+UpgradeTool: http://archive.ubuntu.com/ubuntu/dists/lucid-updates/main/dist-upgrader-all/current/lucid.tar.gz
+UpgradeToolSignature: http://archive.ubuntu.com/ubuntu/dists/lucid-updates/main/dist-upgrader-all/current/lucid.tar.gz.gpg
 
-</div>
-</div>
-</form>
+Dist: maverick 
+Name: Maverick Meerkat
+Version: 10.10
+Date: Sun, 10 Oct 2010 10:10:10 UTC
+Supported: 0
+Description: This is the 10.10 release
+Release-File: http://archive.ubuntu.com/ubuntu/dists/maverick/Release
+ReleaseNotes: http://changelogs.ubuntu.com/EOLReleaseAnnouncement
+ReleaseNotesHtml: http://archive.ubuntu.com/ubuntu/dists/maverick-updates/main/dist-upgrader-all/current/ReleaseAnnouncement
+UpgradeTool: http://archive.ubuntu.com/ubuntu/dists/maverick-updates/main/dist-upgrader-all/current/maverick.tar.gz
+UpgradeToolSignature: http://archive.ubuntu.com/ubuntu/dists/maverick-updates/main/dist-upgrader-all/current/maverick.tar.gz.gpg
 
-</body>
-</html>
+Dist: natty
+Name: Natty Narwhal
+Version: 11.04
+Date: Thu, 28 Apr 2011 12:00:00 UTC
+Supported: 1
+Description: This is the 11.04 release
+Release-File: http://archive.ubuntu.com/ubuntu/dists/natty/Release
+ReleaseNotes: http://archive.ubuntu.com/ubuntu/dists/natty-updates/main/dist-upgrader-all/current/ReleaseAnnouncement
+ReleaseNotesHtml: http://archive.ubuntu.com/ubuntu/dists/natty-updates/main/dist-upgrader-all/current/ReleaseAnnouncement.html
+UpgradeTool: http://archive.ubuntu.com/ubuntu/dists/natty-updates/main/dist-upgrader-all/current/natty.tar.gz
+UpgradeToolSignature: http://archive.ubuntu.com/ubuntu/dists/natty-updates/main/dist-upgrader-all/current/natty.tar.gz.gpg
+
+Dist: oneiric
+Name: Oneiric Ocelot
+Version: 11.10
+Date: Thu, 13 Oct 2011 12:00:00 UTC
+Supported: 1
+Description: This is the 11.10 release
+Release-File: http://archive.ubuntu.com/ubuntu/dists/oneiric/Release
+ReleaseNotes: http://archive.ubuntu.com/ubuntu/dists/oneiric-updates/main/dist-upgrader-all/current/ReleaseAnnouncement
+ReleaseNotesHtml: http://archive.ubuntu.com/ubuntu/dists/oneiric-updates/main/dist-upgrader-all/current/ReleaseAnnouncement.html
+UpgradeTool: http://archive.ubuntu.com/ubuntu/dists/oneiric-updates/main/dist-upgrader-all/current/oneiric.tar.gz
+UpgradeToolSignature: http://archive.ubuntu.com/ubuntu/dists/oneiric-updates/main/dist-upgrader-all/current/oneiric.tar.gz.gpg
+
+Dist: precise
+Name: Precise Pangolin
+Version: 12.04 LTS
+Date: Thu, 26 Apr 2012 12:04:00 UTC
+Supported: 1
+Description: This is the 12.04 LTS release
+Release-File: http://archive.ubuntu.com/ubuntu/dists/precise/Release
+ReleaseNotes: http://archive.ubuntu.com/ubuntu/dists/precise/main/dist-upgrader-all/current/ReleaseAnnouncement
+ReleaseNotesHtml: http://archive.ubuntu.com/ubuntu/dists/precise/main/dist-upgrader-all/current/ReleaseAnnouncement.html
+UpgradeTool: http://archive.ubuntu.com/ubuntu/dists/precise/main/dist-upgrader-all/current/precise.tar.gz
+UpgradeToolSignature: http://archive.ubuntu.com/ubuntu/dists/precise/main/dist-upgrader-all/current/precise.tar.gz.gpg
